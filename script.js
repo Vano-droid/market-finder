@@ -16,22 +16,31 @@ function render(list) {
     }
 
     list.forEach(item => {
-        container.innerHTML +=`
+        container.innerHTML += `
             <div class="card">
                 <h2>${item.name}</h2>
                 <p><b>Магазин:</b> ${item.store}</p>
                 <p><b>Цена:</b> ${item.price} ₽</p>
                 <a href="${item.link}" target="_blank">Перейти на сайт</a>
-            </div>`
-        ;
+            </div>
+        `;
     });
 }
 
 document.getElementById("searchInput").addEventListener("input", () => {
-    const q = searchInput.value.toLowerCase();
-    const filtered = products.filter(p =>
-        p.name.toLowerCase().includes(q)
-    );
+    const query = searchInput.value.toLowerCase().trim();
+    if (!query) {
+        applySort(products);
+        return;
+    }
+
+    const keywords = query.split(" ").filter(k => k); // отдельные слова поиска
+
+    const filtered = products.filter(p => {
+        const searchable = [p.name, ...(p.keywords || [])].join(" ").toLowerCase();
+        return keywords.every(k => searchable.includes(k));
+    });
+
     applySort(filtered);
 });
 
@@ -49,5 +58,5 @@ function applySort(list) {
     render(list);
 }
 
-
 loadData();
+
