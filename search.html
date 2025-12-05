@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Результаты поиска</title>
+<link rel="stylesheet" href="style.css">
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+}
+
+/* Header с большим поиском */
+header {
+    background: #ff8c00;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+header h1 { margin: 0; color: white; }
+
+.big-search {
+    margin-top: 20px;
+}
+.big-search input {
+    width: 500px;
+    padding: 12px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+.big-search button {
+    padding: 12px 16px;
+    background: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* Контейнер основной */
+.main-container {
+    display: flex;
+    margin: 30px auto;
+    width: 90%;
+}
+
+/* Левая панель */
+.left-panel {
+    width: 250px;
+    margin-right: 20px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    transition: transform 0.3s ease;
+    transform: translateX(0);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    position: relative;
+    z-index: 2;
+}
+.left-panel.hidden {
+    transform: translateX(-260px);
+}
+
+.burger-btn {
+    display: block;
+    font-size: 30px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.left-panel input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #aaa;
+}
+
+.sort-select {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #aaa;
+}
+
+/* Основная область с карточками */
+.results {
+    flex: 1;
+}
+
+.card {
+    background: white;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card a {
+    text-decoration: none;
+    color: #ff8c00;
+    font-weight: bold;
+}
+.price {
+    color: #ff8c00;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Адаптив для мобильных */
+@media (max-width: 800px) {
+    .main-container { flex-direction: column; }
+    .left-panel { width: 100%; margin-bottom: 20px; transform: translateX(-100%); position: absolute; top: 0; left: 0; height: 100%; z-index: 10; }
+    .left-panel.visible { transform: translateX(0); }
+    .results { width: 100%; }
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Поисковая система комплектующих</h1>
+    <div class="big-search">
+        <input id="bigSearch" placeholder="Введите название товара...">
+        <button id="bigSearchBtn">🔍</button>
+    </div>
+</header>
+
+<div class="main-container">
+    <div class="left-panel" id="leftPanel">
+        <span class="burger-btn" id="burgerBtn">☰</span>
+        <input id="sideSearch" placeholder="Поиск товаров...">
+        <select id="sortSelect" class="sort-select">
+            <option value="none">Без сортировки</option>
+            <option value="price-asc">Цена: по возрастанию</option>
+            <option value="price-desc">Цена: по убыванию</option>
+            <option value="alphabet">По алфавиту</option>
+        </select>
+    </div>
+
+    <div class="results" id="results"></div>
+</div>
+
+<script>
+let products = [];
+
+// Загрузка базы данных
+async function loadData() {
+    const res = await fetch('data.json'); 
+    products = await res.json();
+
+    const params = new URLSearchParams(window.location.search);
+    const query = params.get('q') || '';
+
+    document.getElementById('bigSearch').value = query;
+    document.getElementById('sideSearch').value = query;
+
+    filterAndRender(query);
+}
+
+// Фильтрация и рендер
+function filterAndRender(q) {
+    const query = q.toLowerCase();
+    let filtered = products.filter(p => 
+        p.name.toLowerCase().includes(query) ||
+        p.keywords.some(k => k.toLowerCase().includes(query))
+    );
+    applySort(filtered);
+}
+
+function render(list) {
+    const container = document.getElementById('results');
+    container.innerHTML = '';
+    if(!list.length){
+        container.innerHTML = "<p>Ничего не найдено</p>";
+        return;
+    }
+    list.forEach(item => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+            <div>
+                <strong>${item.name}</strong><br>
+                Магазин: ${item.store}<br>
+                <a href="${item.link}" target="_blank">Перейти</a>
+            </div>
+            <div class="price">${item.price.toLocaleString()} ₽</div>
+        `;
+        container.appendChild(card);
+    });
+}
+
+// Сортировка
+function applySort(list){
+    const mode = document.getElementById('sortSelect').value;
+    if(mode === 'price-asc') list.sort((a,b)=>a.price-b.price);
+    if(mode === 'price-desc') list.sort((a,b)=>b.price-a.price);
+    if(mode === 'alphabet') list.sort((a,b)=>a.name.localeCompare(b.name));
+    render(list);
+}
+
+// Поиск
+document.getElementById('bigSearchBtn').addEventListener('click', () => {
+    const val = document.getElementById('bigSearch').value.trim();
+    if(val) window.location.href = `search.html?q=${encodeURIComponent(val)}`;
+});
+
+document.getElementById('sideSearch').addEventListener('input', (e)=>{
+    filterAndRender(e.target.value);
+});
+
+document.getElementById('sortSelect').addEventListener('change', ()=>{
+    filterAndRender(document.getElementById('sideSearch').value);
+});
+
+// Бургер-меню
+const burgerBtn = document.getElementById('burgerBtn');
+const leftPanel = document.getElementById('leftPanel');
+
+burgerBtn.addEventListener('click', () => {
+    if(leftPanel.classList.contains('hidden') || leftPanel.classList.contains('visible')){
+        leftPanel.classList.toggle('visible');
+        leftPanel.classList.remove('hidden');
+    } else {
+        leftPanel.classList.add('hidden');
+    }
+});
+
+loadData();
+</script>
+</body>
+</html>
