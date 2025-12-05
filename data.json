@@ -1,20 +1,21 @@
 [
     {
-        "name": "iPhone 13 128GB",
-        "price": 58990,
-        "store": "M.Video",
-        "link": "https://www.mvideo.ru/product/iphone13"
-    },
-    {
-        "name": "iPhone 13 128GB",
-        "price": 57990,
+        "name": "RTX 5060Ti",
+        "price": 51999,
         "store": "DNS",
-        "link": "https://www.dns-shop.ru/product/iphone13"
+        "link": "https://www.dns-shop.ru/product/5a2b972405f4d9cb/videokarta-palit-geforce-rtx-5060-ti-infinity-3-ne7506t019t1-gb2061s/"
     },
     {
-        "name": "Xiaomi Redmi Note 12",
-        "price": 17990,
+        "name": "RTX 5060Ti",
+        "price": 35990,
+        "store": "28bit",
+        "link": "https://28bit.ru/videokarta-palit-ne7506tt19p1-gb2062d-geforce-rtx-5060-ti-8gb-pa-rtx5060ti-dual-oc/"
+    },
+    {
+        "name": "RTX 5060Ti",
+        "price": 40294,
         "store": "Wildberries",
-        "link": "https://www.wildberries.ru/catalog/12345"
+        "link": "https://www.wildberries.ru/catalog/409847010/detail.aspx"
     }
+
 ]
