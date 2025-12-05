@@ -1,44 +1,39 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css">
-    <title>Поисковая система комплектующих</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Главная</title>
 </head>
 <body>
 
-    <div class="title">
-        Поисковая система <br>
-        для приобретения <br>
-        комплектующих для ПК
+<header>
+    <h1>Добро пожаловать!</h1>
+    <div class="big-search">
+        <input id="mainSearch" placeholder="Введите название товара...">
+        <button id="mainSearchBtn">🔍</button>
     </div>
+</header>
 
-    <div class="search-box">
-        <input type="text" placeholder="Поиск комплектующего">
-        <button onclick="location.href='search.html'">🔍</button>
-    </div>
+<div class="main-content">
+    <p>Ищите комплектующие для ПК быстро и удобно.</p>
+</div>
 
-    <div class="grid">
-        <div class="block">
-            <div class="block-title">Задача</div>
-            <p>Если вам надо найти лучшее предложение для комплектующего то вам к нам</p>
-        </div>
+<script>
+// Поиск и переход на search.html
+document.getElementById('mainSearchBtn').addEventListener('click', () => {
+    const val = document.getElementById('mainSearch').value.trim();
+    if(val) window.location.href = `search.html?q=${encodeURIComponent(val)}`;
+});
 
-        <div class="block">
-            <div class="block-title">Функционал</div>
-            <p>Вбейте в строку комплектующую и наша система выведет вам предложения</p>
-        </div>
+// Поиск по Enter
+document.getElementById('mainSearch').addEventListener('keydown', (e)=>{
+    if(e.key === 'Enter'){
+        const val = document.getElementById('mainSearch').value.trim();
+        if(val) window.location.href = `search.html?q=${encodeURIComponent(val)}`;
+    }
+});
+</script>
 
-        <div class="block">
-            <div class="block-title">Преимущества</div>
-            <p>
-                Быстро, надёжно. Наша поисковая система экономит кучу времени и сил<br>
-                ведь сразу выведет все предложения для вас. Так же не нужно беспокоится
-                о безопасности ведь она сразу вас перенесёт на сайты куда вам нужно.
-            </p>
-        </div>
-    </div>
-<script src="main.js"></script>
 </body>
 </html>
