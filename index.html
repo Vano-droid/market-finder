@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Поиск товаров по магазинам</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Поиск товаров</h1>
+    <input type="text" id="searchInput" placeholder="Введите название товара...">
+    <select id="sortSelect">
+        <option value="none">Без сортировки</option>
+        <option value="price-asc">Цена: по возрастанию</option>
+        <option value="price-desc">Цена: по убыванию</option>
+        <option value="alphabet">По алфавиту</option>
+    </select>
+</header>
+<div id="results"></div>
+<script src="script.js"></script>
+</body>
+</html>

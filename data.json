@@ -1,0 +1,20 @@
+[
+    {
+        "name": "iPhone 13 128GB",
+        "price": 58990,
+        "store": "M.Video",
+        "link": "https://www.mvideo.ru/product/iphone13"
+    },
+    {
+        "name": "iPhone 13 128GB",
+        "price": 57990,
+        "store": "DNS",
+        "link": "https://www.dns-shop.ru/product/iphone13"
+    },
+    {
+        "name": "Xiaomi Redmi Note 12",
+        "price": 17990,
+        "store": "Wildberries",
+        "link": "https://www.wildberries.ru/catalog/12345"
+    }
+]
