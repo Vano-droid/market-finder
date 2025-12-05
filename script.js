@@ -16,13 +16,13 @@ function render(list) {
     }
 
     list.forEach(item => {
-        container.innerHTML += 
+        container.innerHTML +=`
             <div class="card">
                 <h2>${item.name}</h2>
                 <p><b>Магазин:</b> ${item.store}</p>
                 <p><b>Цена:</b> ${item.price} ₽</p>
                 <a href="${item.link}" target="_blank">Перейти на сайт</a>
-            </div>
+            </div>`
         ;
     });
 }
@@ -48,5 +48,6 @@ function applySort(list) {
 
     render(list);
 }
+
 
 loadData();
