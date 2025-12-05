@@ -1,21 +1,2828 @@
 [
-    {
-        "name": "RTX 5060Ti",
-        "price": 51999,
-        "store": "DNS",
-        "link": "https://www.dns-shop.ru/product/5a2b972405f4d9cb/videokarta-palit-geforce-rtx-5060-ti-infinity-3-ne7506t019t1-gb2061s/"
-    },
-    {
-        "name": "RTX 5060Ti",
-        "price": 35990,
-        "store": "28bit",
-        "link": "https://28bit.ru/videokarta-palit-ne7506tt19p1-gb2062d-geforce-rtx-5060-ti-8gb-pa-rtx5060ti-dual-oc/"
-    },
-    {
-        "name": "RTX 5060Ti",
-        "price": 40294,
-        "store": "Wildberries",
-        "link": "https://www.wildberries.ru/catalog/409847010/detail.aspx"
-    }
-
+  {
+    "name": "RTX 4060",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rtx4060-1",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rtx4060-2",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rtx4060-3",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rtx4060-4",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rtx4060-5",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rtx4060-6",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060 Ti",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rtx4060ti-1",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060 Ti",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rtx4060ti-2",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060 Ti",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rtx4060ti-3",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060 Ti",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rtx4060ti-4",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060 Ti",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rtx4060ti-5",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4060 Ti",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rtx4060ti-6",
+    "keywords": [
+      "RTX",
+      "4060",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rtx4070-1",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rtx4070-2",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rtx4070-3",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rtx4070-4",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rtx4070-5",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rtx4070-6",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070 Super",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rtx4070super-1",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070 Super",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rtx4070super-2",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070 Super",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rtx4070super-3",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070 Super",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rtx4070super-4",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070 Super",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rtx4070super-5",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4070 Super",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rtx4070super-6",
+    "keywords": [
+      "RTX",
+      "4070",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4080",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rtx4080-1",
+    "keywords": [
+      "RTX",
+      "4080",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4080",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rtx4080-2",
+    "keywords": [
+      "RTX",
+      "4080",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4080",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rtx4080-3",
+    "keywords": [
+      "RTX",
+      "4080",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4080",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rtx4080-4",
+    "keywords": [
+      "RTX",
+      "4080",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4080",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rtx4080-5",
+    "keywords": [
+      "RTX",
+      "4080",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4080",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rtx4080-6",
+    "keywords": [
+      "RTX",
+      "4080",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4090",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rtx4090-1",
+    "keywords": [
+      "RTX",
+      "4090",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4090",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rtx4090-2",
+    "keywords": [
+      "RTX",
+      "4090",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4090",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rtx4090-3",
+    "keywords": [
+      "RTX",
+      "4090",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4090",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rtx4090-4",
+    "keywords": [
+      "RTX",
+      "4090",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4090",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rtx4090-5",
+    "keywords": [
+      "RTX",
+      "4090",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RTX 4090",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rtx4090-6",
+    "keywords": [
+      "RTX",
+      "4090",
+      "NVIDIA",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XT",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rx7900xt-1",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XT",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rx7900xt-2",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XT",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rx7900xt-3",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XT",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rx7900xt-4",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XT",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rx7900xt-5",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XT",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rx7900xt-6",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XTX",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rx7900xtx-1",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XTX",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rx7900xtx-2",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XTX",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rx7900xtx-3",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XTX",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rx7900xtx-4",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XTX",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rx7900xtx-5",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7900 XTX",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rx7900xtx-6",
+    "keywords": [
+      "RX",
+      "7900",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7800 XT",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rx7800xt-1",
+    "keywords": [
+      "RX",
+      "7800",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7800 XT",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rx7800xt-2",
+    "keywords": [
+      "RX",
+      "7800",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7800 XT",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rx7800xt-3",
+    "keywords": [
+      "RX",
+      "7800",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7800 XT",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rx7800xt-4",
+    "keywords": [
+      "RX",
+      "7800",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7800 XT",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rx7800xt-5",
+    "keywords": [
+      "RX",
+      "7800",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7800 XT",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rx7800xt-6",
+    "keywords": [
+      "RX",
+      "7800",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7700 XT",
+    "price": 30000,
+    "store": "DNS",
+    "link": "https://example.com/product/rx7700xt-1",
+    "keywords": [
+      "RX",
+      "7700",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7700 XT",
+    "price": 31500,
+    "store": "Regard",
+    "link": "https://example.com/product/rx7700xt-2",
+    "keywords": [
+      "RX",
+      "7700",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7700 XT",
+    "price": 33000,
+    "store": "Ozon",
+    "link": "https://example.com/product/rx7700xt-3",
+    "keywords": [
+      "RX",
+      "7700",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7700 XT",
+    "price": 30000,
+    "store": "Citylink",
+    "link": "https://example.com/product/rx7700xt-4",
+    "keywords": [
+      "RX",
+      "7700",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7700 XT",
+    "price": 31500,
+    "store": "Wildberries",
+    "link": "https://example.com/product/rx7700xt-5",
+    "keywords": [
+      "RX",
+      "7700",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "RX 7700 XT",
+    "price": 33000,
+    "store": "28bit",
+    "link": "https://example.com/product/rx7700xt-6",
+    "keywords": [
+      "RX",
+      "7700",
+      "AMD",
+      "видеокарта",
+      "графика"
+    ]
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/intelcorei5-12400f-1",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/intelcorei5-12400f-2",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/intelcorei5-12400f-3",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/intelcorei5-12400f-4",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/intelcorei5-12400f-5",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/intelcorei5-12400f-6",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/intelcorei7-12700kf-1",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/intelcorei7-12700kf-2",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/intelcorei7-12700kf-3",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/intelcorei7-12700kf-4",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/intelcorei7-12700kf-5",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/intelcorei7-12700kf-6",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/intelcorei9-12900k-1",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/intelcorei9-12900k-2",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/intelcorei9-12900k-3",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/intelcorei9-12900k-4",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/intelcorei9-12900k-5",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/intelcorei9-12900k-6",
+    "keywords": [
+      "Intel",
+      "Core",
+      "Intel",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 5 5600",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/ryzen55600-1",
+    "keywords": [
+      "Ryzen",
+      "5",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 5 5600",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/ryzen55600-2",
+    "keywords": [
+      "Ryzen",
+      "5",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 5 5600",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/ryzen55600-3",
+    "keywords": [
+      "Ryzen",
+      "5",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 5 5600",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ryzen55600-4",
+    "keywords": [
+      "Ryzen",
+      "5",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 5 5600",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ryzen55600-5",
+    "keywords": [
+      "Ryzen",
+      "5",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 5 5600",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/ryzen55600-6",
+    "keywords": [
+      "Ryzen",
+      "5",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 7 5800X3D",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/ryzen75800x3d-1",
+    "keywords": [
+      "Ryzen",
+      "7",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 7 5800X3D",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/ryzen75800x3d-2",
+    "keywords": [
+      "Ryzen",
+      "7",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 7 5800X3D",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/ryzen75800x3d-3",
+    "keywords": [
+      "Ryzen",
+      "7",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 7 5800X3D",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ryzen75800x3d-4",
+    "keywords": [
+      "Ryzen",
+      "7",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 7 5800X3D",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ryzen75800x3d-5",
+    "keywords": [
+      "Ryzen",
+      "7",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 7 5800X3D",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/ryzen75800x3d-6",
+    "keywords": [
+      "Ryzen",
+      "7",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5900X",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/ryzen95900x-1",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5900X",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/ryzen95900x-2",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5900X",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/ryzen95900x-3",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5900X",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ryzen95900x-4",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5900X",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ryzen95900x-5",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5900X",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/ryzen95900x-6",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5950X",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/ryzen95950x-1",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5950X",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/ryzen95950x-2",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5950X",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/ryzen95950x-3",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5950X",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ryzen95950x-4",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5950X",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ryzen95950x-5",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "Ryzen 9 5950X",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/ryzen95950x-6",
+    "keywords": [
+      "Ryzen",
+      "9",
+      "AMD",
+      "процессор",
+      "CPU"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Kingston NV2",
+    "price": 5000,
+    "store": "DNS",
+    "link": "https://example.com/product/ssdnvme1tbkingstonnv2-1",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Kingston"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Kingston NV2",
+    "price": 5250,
+    "store": "Regard",
+    "link": "https://example.com/product/ssdnvme1tbkingstonnv2-2",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Kingston"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Kingston NV2",
+    "price": 5500,
+    "store": "Ozon",
+    "link": "https://example.com/product/ssdnvme1tbkingstonnv2-3",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Kingston"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Kingston NV2",
+    "price": 5000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ssdnvme1tbkingstonnv2-4",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Kingston"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Kingston NV2",
+    "price": 5250,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ssdnvme1tbkingstonnv2-5",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Kingston"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Kingston NV2",
+    "price": 5500,
+    "store": "28bit",
+    "link": "https://example.com/product/ssdnvme1tbkingstonnv2-6",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Kingston"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB Samsung 990 Pro",
+    "price": 5000,
+    "store": "DNS",
+    "link": "https://example.com/product/ssdnvme2tbsamsung990pro-1",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "990",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB Samsung 990 Pro",
+    "price": 5250,
+    "store": "Regard",
+    "link": "https://example.com/product/ssdnvme2tbsamsung990pro-2",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "990",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB Samsung 990 Pro",
+    "price": 5500,
+    "store": "Ozon",
+    "link": "https://example.com/product/ssdnvme2tbsamsung990pro-3",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "990",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB Samsung 990 Pro",
+    "price": 5000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ssdnvme2tbsamsung990pro-4",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "990",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB Samsung 990 Pro",
+    "price": 5250,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ssdnvme2tbsamsung990pro-5",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "990",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB Samsung 990 Pro",
+    "price": 5500,
+    "store": "28bit",
+    "link": "https://example.com/product/ssdnvme2tbsamsung990pro-6",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "990",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Samsung 980 Pro",
+    "price": 5000,
+    "store": "DNS",
+    "link": "https://example.com/product/ssdnvme1tbsamsung980pro-1",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "980",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Samsung 980 Pro",
+    "price": 5250,
+    "store": "Regard",
+    "link": "https://example.com/product/ssdnvme1tbsamsung980pro-2",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "980",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Samsung 980 Pro",
+    "price": 5500,
+    "store": "Ozon",
+    "link": "https://example.com/product/ssdnvme1tbsamsung980pro-3",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "980",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Samsung 980 Pro",
+    "price": 5000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ssdnvme1tbsamsung980pro-4",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "980",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Samsung 980 Pro",
+    "price": 5250,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ssdnvme1tbsamsung980pro-5",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "980",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 1TB Samsung 980 Pro",
+    "price": 5500,
+    "store": "28bit",
+    "link": "https://example.com/product/ssdnvme1tbsamsung980pro-6",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "Samsung",
+      "980",
+      "Pro"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB WD Black SN850",
+    "price": 5000,
+    "store": "DNS",
+    "link": "https://example.com/product/ssdnvme2tbwdblacksn850-1",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "WD",
+      "Black"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB WD Black SN850",
+    "price": 5250,
+    "store": "Regard",
+    "link": "https://example.com/product/ssdnvme2tbwdblacksn850-2",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "WD",
+      "Black"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB WD Black SN850",
+    "price": 5500,
+    "store": "Ozon",
+    "link": "https://example.com/product/ssdnvme2tbwdblacksn850-3",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "WD",
+      "Black"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB WD Black SN850",
+    "price": 5000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ssdnvme2tbwdblacksn850-4",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "WD",
+      "Black"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB WD Black SN850",
+    "price": 5250,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ssdnvme2tbwdblacksn850-5",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "WD",
+      "Black"
+    ]
+  },
+  {
+    "name": "SSD NVMe 2TB WD Black SN850",
+    "price": 5500,
+    "store": "28bit",
+    "link": "https://example.com/product/ssdnvme2tbwdblacksn850-6",
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "SSD",
+      "NVMe",
+      "WD",
+      "Black"
+    ]
+  },
+  {
+    "name": "Motherboard MSI B550 Tomahawk",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/motherboardmsib550tomahawk-1",
+    "keywords": [
+      "Motherboard",
+      "MSI",
+      "B550",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard MSI B550 Tomahawk",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/motherboardmsib550tomahawk-2",
+    "keywords": [
+      "Motherboard",
+      "MSI",
+      "B550",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard MSI B550 Tomahawk",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/motherboardmsib550tomahawk-3",
+    "keywords": [
+      "Motherboard",
+      "MSI",
+      "B550",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard MSI B550 Tomahawk",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/motherboardmsib550tomahawk-4",
+    "keywords": [
+      "Motherboard",
+      "MSI",
+      "B550",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard MSI B550 Tomahawk",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/motherboardmsib550tomahawk-5",
+    "keywords": [
+      "Motherboard",
+      "MSI",
+      "B550",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard MSI B550 Tomahawk",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/motherboardmsib550tomahawk-6",
+    "keywords": [
+      "Motherboard",
+      "MSI",
+      "B550",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS ROG Crosshair VIII Hero",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-1",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "ROG",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS ROG Crosshair VIII Hero",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-2",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "ROG",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS ROG Crosshair VIII Hero",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-3",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "ROG",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS ROG Crosshair VIII Hero",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-4",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "ROG",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS ROG Crosshair VIII Hero",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-5",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "ROG",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS ROG Crosshair VIII Hero",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-6",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "ROG",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard Gigabyte B660 AORUS Master",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-1",
+    "keywords": [
+      "Motherboard",
+      "Gigabyte",
+      "B660",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard Gigabyte B660 AORUS Master",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-2",
+    "keywords": [
+      "Motherboard",
+      "Gigabyte",
+      "B660",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard Gigabyte B660 AORUS Master",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-3",
+    "keywords": [
+      "Motherboard",
+      "Gigabyte",
+      "B660",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard Gigabyte B660 AORUS Master",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-4",
+    "keywords": [
+      "Motherboard",
+      "Gigabyte",
+      "B660",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard Gigabyte B660 AORUS Master",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-5",
+    "keywords": [
+      "Motherboard",
+      "Gigabyte",
+      "B660",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard Gigabyte B660 AORUS Master",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-6",
+    "keywords": [
+      "Motherboard",
+      "Gigabyte",
+      "B660",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS TUF Gaming X570",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/motherboardasustufgamingx570-1",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "TUF",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS TUF Gaming X570",
+    "price": 15750,
+    "store": "Regard",
+    "link": "https://example.com/product/motherboardasustufgamingx570-2",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "TUF",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS TUF Gaming X570",
+    "price": 16500,
+    "store": "Ozon",
+    "link": "https://example.com/product/motherboardasustufgamingx570-3",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "TUF",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS TUF Gaming X570",
+    "price": 15000,
+    "store": "Citylink",
+    "link": "https://example.com/product/motherboardasustufgamingx570-4",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "TUF",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS TUF Gaming X570",
+    "price": 15750,
+    "store": "Wildberries",
+    "link": "https://example.com/product/motherboardasustufgamingx570-5",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "TUF",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "Motherboard ASUS TUF Gaming X570",
+    "price": 16500,
+    "store": "28bit",
+    "link": "https://example.com/product/motherboardasustufgamingx570-6",
+    "keywords": [
+      "Motherboard",
+      "ASUS",
+      "TUF",
+      "материнская плата",
+      "motherboard"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
+    "price": 12000,
+    "store": "DNS",
+    "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-1",
+    "keywords": [
+      "32GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
+    "price": 12600,
+    "store": "Regard",
+    "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-2",
+    "keywords": [
+      "32GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
+    "price": 13200,
+    "store": "Ozon",
+    "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-3",
+    "keywords": [
+      "32GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
+    "price": 12000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-4",
+    "keywords": [
+      "32GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
+    "price": 12600,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-5",
+    "keywords": [
+      "32GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
+    "price": 13200,
+    "store": "28bit",
+    "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-6",
+    "keywords": [
+      "32GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
+    "price": 12000,
+    "store": "DNS",
+    "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-1",
+    "keywords": [
+      "64GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
+    "price": 12600,
+    "store": "Regard",
+    "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-2",
+    "keywords": [
+      "64GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
+    "price": 13200,
+    "store": "Ozon",
+    "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-3",
+    "keywords": [
+      "64GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
+    "price": 12000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-4",
+    "keywords": [
+      "64GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
+    "price": 12600,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-5",
+    "keywords": [
+      "64GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
+    "price": 13200,
+    "store": "28bit",
+    "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-6",
+    "keywords": [
+      "64GB",
+      "DDR4",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
+    "price": 12000,
+    "store": "DNS",
+    "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-1",
+    "keywords": [
+      "16GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
+    "price": 12600,
+    "store": "Regard",
+    "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-2",
+    "keywords": [
+      "16GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
+    "price": 13200,
+    "store": "Ozon",
+    "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-3",
+    "keywords": [
+      "16GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
+    "price": 12000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-4",
+    "keywords": [
+      "16GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
+    "price": 12600,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-5",
+    "keywords": [
+      "16GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
+    "price": 13200,
+    "store": "28bit",
+    "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-6",
+    "keywords": [
+      "16GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
+    "price": 12000,
+    "store": "DNS",
+    "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-1",
+    "keywords": [
+      "32GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
+    "price": 12600,
+    "store": "Regard",
+    "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-2",
+    "keywords": [
+      "32GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
+    "price": 13200,
+    "store": "Ozon",
+    "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-3",
+    "keywords": [
+      "32GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
+    "price": 12000,
+    "store": "Citylink",
+    "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-4",
+    "keywords": [
+      "32GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
+    "price": 12600,
+    "store": "Wildberries",
+    "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-5",
+    "keywords": [
+      "32GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
+    "price": 13200,
+    "store": "28bit",
+    "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-6",
+    "keywords": [
+      "32GB",
+      "DDR5",
+      "RAM",
+      "оперативка"
+    ]
+  },
+  {
+    "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
+    "price": 7000,
+    "store": "DNS",
+    "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-1",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Be",
+      "Quiet!",
+      "Dark",
+      "Rock",
+      "Pro",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
+    "price": 7350,
+    "store": "Regard",
+    "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-2",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Be",
+      "Quiet!",
+      "Dark",
+      "Rock",
+      "Pro",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
+    "price": 7700,
+    "store": "Ozon",
+    "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-3",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Be",
+      "Quiet!",
+      "Dark",
+      "Rock",
+      "Pro",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
+    "price": 7000,
+    "store": "Citylink",
+    "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-4",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Be",
+      "Quiet!",
+      "Dark",
+      "Rock",
+      "Pro",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
+    "price": 7350,
+    "store": "Wildberries",
+    "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-5",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Be",
+      "Quiet!",
+      "Dark",
+      "Rock",
+      "Pro",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
+    "price": 7700,
+    "store": "28bit",
+    "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-6",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Be",
+      "Quiet!",
+      "Dark",
+      "Rock",
+      "Pro",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Noctua NH-D15",
+    "price": 7000,
+    "store": "DNS",
+    "link": "https://example.com/product/cpucoolernoctuanh-d15-1",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Noctua",
+      "NH-D15",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Noctua NH-D15",
+    "price": 7350,
+    "store": "Regard",
+    "link": "https://example.com/product/cpucoolernoctuanh-d15-2",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Noctua",
+      "NH-D15",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Noctua NH-D15",
+    "price": 7700,
+    "store": "Ozon",
+    "link": "https://example.com/product/cpucoolernoctuanh-d15-3",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Noctua",
+      "NH-D15",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Noctua NH-D15",
+    "price": 7000,
+    "store": "Citylink",
+    "link": "https://example.com/product/cpucoolernoctuanh-d15-4",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Noctua",
+      "NH-D15",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Noctua NH-D15",
+    "price": 7350,
+    "store": "Wildberries",
+    "link": "https://example.com/product/cpucoolernoctuanh-d15-5",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Noctua",
+      "NH-D15",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Noctua NH-D15",
+    "price": 7700,
+    "store": "28bit",
+    "link": "https://example.com/product/cpucoolernoctuanh-d15-6",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Noctua",
+      "NH-D15",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
+    "price": 7000,
+    "store": "DNS",
+    "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-1",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Cooler",
+      "Master",
+      "Hyper",
+      "Black",
+      "Edition",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
+    "price": 7350,
+    "store": "Regard",
+    "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-2",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Cooler",
+      "Master",
+      "Hyper",
+      "Black",
+      "Edition",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
+    "price": 7700,
+    "store": "Ozon",
+    "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-3",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Cooler",
+      "Master",
+      "Hyper",
+      "Black",
+      "Edition",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
+    "price": 7000,
+    "store": "Citylink",
+    "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-4",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Cooler",
+      "Master",
+      "Hyper",
+      "Black",
+      "Edition",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
+    "price": 7350,
+    "store": "Wildberries",
+    "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-5",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Cooler",
+      "Master",
+      "Hyper",
+      "Black",
+      "Edition",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
+    "price": 7700,
+    "store": "28bit",
+    "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-6",
+    "keywords": [
+      "CPU",
+      "Cooler",
+      "Cooler",
+      "Master",
+      "Hyper",
+      "Black",
+      "Edition",
+      "кулер",
+      "охлаждение"
+    ]
+  },
+  {
+    "name": "PSU Corsair RM850x 850W 80+ Gold",
+    "price": 12000,
+    "store": "DNS",
+    "link": "https://example.com/product/psucorsairrm850x850w80+gold-1",
+    "keywords": [
+      "PSU",
+      "Corsair",
+      "RM850x",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Corsair RM850x 850W 80+ Gold",
+    "price": 12600,
+    "store": "Regard",
+    "link": "https://example.com/product/psucorsairrm850x850w80+gold-2",
+    "keywords": [
+      "PSU",
+      "Corsair",
+      "RM850x",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Corsair RM850x 850W 80+ Gold",
+    "price": 13200,
+    "store": "Ozon",
+    "link": "https://example.com/product/psucorsairrm850x850w80+gold-3",
+    "keywords": [
+      "PSU",
+      "Corsair",
+      "RM850x",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Corsair RM850x 850W 80+ Gold",
+    "price": 12000,
+    "store": "Citylink",
+    "link": "https://example.com/product/psucorsairrm850x850w80+gold-4",
+    "keywords": [
+      "PSU",
+      "Corsair",
+      "RM850x",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Corsair RM850x 850W 80+ Gold",
+    "price": 12600,
+    "store": "Wildberries",
+    "link": "https://example.com/product/psucorsairrm850x850w80+gold-5",
+    "keywords": [
+      "PSU",
+      "Corsair",
+      "RM850x",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Corsair RM850x 850W 80+ Gold",
+    "price": 13200,
+    "store": "28bit",
+    "link": "https://example.com/product/psucorsairrm850x850w80+gold-6",
+    "keywords": [
+      "PSU",
+      "Corsair",
+      "RM850x",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
+    "price": 12000,
+    "store": "DNS",
+    "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-1",
+    "keywords": [
+      "PSU",
+      "Seasonic",
+      "Prime",
+      "TX-1000",
+      "Titanium",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
+    "price": 12600,
+    "store": "Regard",
+    "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-2",
+    "keywords": [
+      "PSU",
+      "Seasonic",
+      "Prime",
+      "TX-1000",
+      "Titanium",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
+    "price": 13200,
+    "store": "Ozon",
+    "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-3",
+    "keywords": [
+      "PSU",
+      "Seasonic",
+      "Prime",
+      "TX-1000",
+      "Titanium",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
+    "price": 12000,
+    "store": "Citylink",
+    "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-4",
+    "keywords": [
+      "PSU",
+      "Seasonic",
+      "Prime",
+      "TX-1000",
+      "Titanium",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
+    "price": 12600,
+    "store": "Wildberries",
+    "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-5",
+    "keywords": [
+      "PSU",
+      "Seasonic",
+      "Prime",
+      "TX-1000",
+      "Titanium",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
+    "price": 13200,
+    "store": "28bit",
+    "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-6",
+    "keywords": [
+      "PSU",
+      "Seasonic",
+      "Prime",
+      "TX-1000",
+      "Titanium",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
+    "price": 12000,
+    "store": "DNS",
+    "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-1",
+    "keywords": [
+      "PSU",
+      "Cooler",
+      "Master",
+      "V850",
+      "SFX",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
+    "price": 12600,
+    "store": "Regard",
+    "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-2",
+    "keywords": [
+      "PSU",
+      "Cooler",
+      "Master",
+      "V850",
+      "SFX",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
+    "price": 13200,
+    "store": "Ozon",
+    "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-3",
+    "keywords": [
+      "PSU",
+      "Cooler",
+      "Master",
+      "V850",
+      "SFX",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
+    "price": 12000,
+    "store": "Citylink",
+    "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-4",
+    "keywords": [
+      "PSU",
+      "Cooler",
+      "Master",
+      "V850",
+      "SFX",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
+    "price": 12600,
+    "store": "Wildberries",
+    "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-5",
+    "keywords": [
+      "PSU",
+      "Cooler",
+      "Master",
+      "V850",
+      "SFX",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  },
+  {
+    "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
+    "price": 13200,
+    "store": "28bit",
+    "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-6",
+    "keywords": [
+      "PSU",
+      "Cooler",
+      "Master",
+      "V850",
+      "SFX",
+      "Gold",
+      "блок питания",
+      "PSU"
+    ]
+  }
 ]
