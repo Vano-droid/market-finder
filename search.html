@@ -20,24 +20,65 @@ header {
     text-align: center;
     position: relative;
 }
-header h1 { margin: 0; color: white; }
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.header-top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+}
+
+header h1 { 
+    margin: 0; 
+    color: white; 
+    flex-shrink: 0;
+}
 
 .big-search {
-    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
+
 .big-search input {
-    width: 500px;
+    width: 400px;
     padding: 12px;
     border-radius: 6px;
     border: 1px solid #ccc;
     font-size: 16px;
 }
+
 .big-search button {
     padding: 12px 16px;
     background: #fff;
     border: none;
     border-radius: 6px;
     cursor: pointer;
+}
+
+.build-pc-btn {
+    padding: 12px 24px;
+    background: #4a6fa5;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    white-space: nowrap;
+    transition: background-color 0.2s;
+}
+
+.build-pc-btn:hover {
+    background: #3a5a80;
 }
 
 /* Контейнер основной */
@@ -114,20 +155,56 @@ header h1 { margin: 0; color: white; }
 
 /* Адаптив для мобильных */
 @media (max-width: 800px) {
-    .main-container { flex-direction: column; }
-    .left-panel { width: 100%; margin-bottom: 20px; transform: translateX(-100%); position: absolute; top: 0; left: 0; height: 100%; z-index: 10; }
-    .left-panel.visible { transform: translateX(0); }
-    .results { width: 100%; }
+    .header-top {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .big-search input {
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    .main-container { 
+        flex-direction: column; 
+    }
+    
+    .left-panel { 
+        width: 100%; 
+        margin-bottom: 20px; 
+        transform: translateX(-100%); 
+        position: absolute; 
+        top: 0; 
+        left: 0; 
+        height: 100%; 
+        z-index: 10; 
+    }
+    
+    .left-panel.visible { 
+        transform: translateX(0); 
+    }
+    
+    .results { 
+        width: 100%; 
+    }
 }
 </style>
 </head>
 <body>
 
 <header>
-    <h1>Поисковая система комплектующих</h1>
-    <div class="big-search">
-        <input id="bigSearch" placeholder="Введите название товара...">
-        <button id="bigSearchBtn">🔍</button>
+    <div class="header-container">
+        <div class="header-top">
+            <h1>Поисковая система комплектующих</h1>
+            <button class="build-pc-btn" id="buildPcBtn">
+                🛠️ Собрать ПК
+            </button>
+        </div>
+        
+        <div class="big-search">
+            <input id="bigSearch" placeholder="Введите название товара...">
+            <button id="bigSearchBtn">🔍</button>
+        </div>
     </div>
 </header>
 
@@ -229,6 +306,13 @@ burgerBtn.addEventListener('click', () => {
     } else {
         leftPanel.classList.add('hidden');
     }
+});
+
+// Кнопка сборки ПК - просто для демонстрации
+document.getElementById('buildPcBtn').addEventListener('click', () => {
+    alert('Функция сборки ПК находится в разработке. Здесь будет интерфейс для выбора и проверки совместимости комплектующих.');
+    // В будущем здесь будет переход на страницу сборки ПК
+    // window.location.href = 'pc-builder.html';
 });
 
 loadData();
