@@ -72,9 +72,14 @@ function render(list) {
         const canAdd = canAddToBuild(item.category);
         
         card.innerHTML = `
+            <div class="card-image">
+                <img src="${imagePath}" alt="${item.name}" 
+                     onerror="this.onerror=null; this.src='images/no-image.png';">
+            </div>
             <div class="card-header">
                 <h3 class="card-title">${item.name}</h3>
                 <span class="card-category">${getCategoryName(item.category)}</span>
+                    ${item.store ? `<span class="card-store">${item.store}</span>` : ''}
             </div>
             <div class="card-details">
                 ${renderSpecs(item.specs)}
@@ -228,8 +233,13 @@ function updateBuildPanel() {
             totalPrice += product.price;
             html += `
                 <div class="build-item">
+                  <div class="build-item-image">
+                        <img src="${imagePath}" alt="${product.name}"
+                             onerror="this.onerror=null; this.src='images/no-image.png';">
+                    </div>
                     <div class="build-item-info">
                         <div class="build-item-name">${getCategoryName(category)}: ${product.name}</div>
+                        <div class="build-item-store">${product.store ? `Магазин: ${product.store}` : ''}</div>
                         <div class="build-item-price">${product.price.toLocaleString()} ₽</div>
                     </div>
                     <button class="remove-item" data-category="${category}">✕</button>
