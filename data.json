@@ -1,2828 +1,4553 @@
 [
   {
-    "name": "RTX 4060",
+    "id": 1,
+    "name": "RTX 4060 8GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rtx4060-1",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060",
+      "memory": 8,
+      "memory_type": "GDDR6",
+      "length": 240,
+      "power": 115,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060",
+    "id": 2,
+    "name": "RTX 4060 8GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rtx4060-2",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060",
+      "memory": 8,
+      "memory_type": "GDDR6",
+      "length": 242,
+      "power": 120,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060",
+    "id": 3,
+    "name": "RTX 4060 8GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rtx4060-3",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060",
+      "memory": 8,
+      "memory_type": "GDDR6",
+      "length": 238,
+      "power": 115,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060",
+    "id": 4,
+    "name": "RTX 4060 8GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rtx4060-4",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060",
+      "memory": 8,
+      "memory_type": "GDDR6",
+      "length": 241,
+      "power": 115,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060",
+    "id": 5,
+    "name": "RTX 4060 8GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rtx4060-5",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060",
+      "memory": 8,
+      "memory_type": "GDDR6",
+      "length": 239,
+      "power": 115,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060",
+    "id": 6,
+    "name": "RTX 4060 8GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rtx4060-6",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
-  },
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060",
+      "memory": 8,
+      "memory_type": "GDDR6",
+      "length": 243,
+      "power": 120,
+      "pcie_version": "4.0"
+    }
+  }
   {
-    "name": "RTX 4060 Ti",
+    "id": 7,
+    "name": "RTX 4060 Ti 16GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rtx4060ti-1",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060 Ti",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 260,
+      "power": 160,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060 Ti",
+    "id": 8,
+    "name": "RTX 4060 Ti 16GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rtx4060ti-2",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060 Ti",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 262,
+      "power": 165,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060 Ti",
+    "id": 9,
+    "name": "RTX 4060 Ti 16GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rtx4060ti-3",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060 Ti",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 258,
+      "power": 160,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060 Ti",
+    "id": 10,
+    "name": "RTX 4060 Ti 16GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rtx4060ti-4",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060 Ti",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 261,
+      "power": 160,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060 Ti",
+    "id": 11,
+    "name": "RTX 4060 Ti 16GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rtx4060ti-5",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060 Ti",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 259,
+      "power": 160,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4060 Ti",
+    "id": 12,
+    "name": "RTX 4060 Ti 16GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rtx4060ti-6",
-    "keywords": [
-      "RTX",
-      "4060",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
-  },
-  {
-    "name": "RTX 4070",
+    "keywords": ["RTX", "4060", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4060 Ti",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 263,
+      "power": 165,
+      "pcie_version": "4.0"
+    }
+  }  {
+    "id": 13,
+    "name": "RTX 4070 12GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rtx4070-1",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070",
+      "memory": 12,
+      "memory_type": "GDDR6X",
+      "length": 300,
+      "power": 200,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070",
+    "id": 14,
+    "name": "RTX 4070 12GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rtx4070-2",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070",
+      "memory": 12,
+      "memory_type": "GDDR6X",
+      "length": 302,
+      "power": 205,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070",
+    "id": 15,
+    "name": "RTX 4070 12GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rtx4070-3",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070",
+      "memory": 12,
+      "memory_type": "GDDR6X",
+      "length": 298,
+      "power": 200,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070",
+    "id": 16,
+    "name": "RTX 4070 12GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rtx4070-4",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070",
+      "memory": 12,
+      "memory_type": "GDDR6X",
+      "length": 301,
+      "power": 200,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070",
+    "id": 17,
+    "name": "RTX 4070 12GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rtx4070-5",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070",
+      "memory": 12,
+      "memory_type": "GDDR6X",
+      "length": 299,
+      "power": 200,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070",
+    "id": 18,
+    "name": "RTX 4070 12GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rtx4070-6",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
-  },
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070",
+      "memory": 12,
+      "memory_type": "GDDR6X",
+      "length": 303,
+      "power": 205,
+      "pcie_version": "4.0"
+    }
+  }
   {
-    "name": "RTX 4070 Super",
+    "id": 19,
+    "name": "RTX 4070 Super 16GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rtx4070super-1",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070 Super",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 310,
+      "power": 220,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070 Super",
+    "id": 20,
+    "name": "RTX 4070 Super 16GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rtx4070super-2",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070 Super",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 312,
+      "power": 225,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070 Super",
+    "id": 21,
+    "name": "RTX 4070 Super 16GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rtx4070super-3",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070 Super",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 308,
+      "power": 220,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070 Super",
+    "id": 22,
+    "name": "RTX 4070 Super 16GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rtx4070super-4",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070 Super",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 311,
+      "power": 220,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070 Super",
+    "id": 23,
+    "name": "RTX 4070 Super 16GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rtx4070super-5",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070 Super",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 309,
+      "power": 220,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4070 Super",
+    "id": 24,
+    "name": "RTX 4070 Super 16GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rtx4070super-6",
-    "keywords": [
-      "RTX",
-      "4070",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
-  },
-  {
-    "name": "RTX 4080",
+    "keywords": ["RTX", "4070", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4070 Super",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 313,
+      "power": 225,
+      "pcie_version": "4.0"
+    }
+  }
+    {
+    "id": 25,
+    "name": "RTX 4080 16GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rtx4080-1",
-    "keywords": [
-      "RTX",
-      "4080",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4080", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4080",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 340,
+      "power": 320,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4080",
+    "id": 26,
+    "name": "RTX 4080 16GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rtx4080-2",
-    "keywords": [
-      "RTX",
-      "4080",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4080", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4080",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 342,
+      "power": 325,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4080",
+    "id": 27,
+    "name": "RTX 4080 16GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rtx4080-3",
-    "keywords": [
-      "RTX",
-      "4080",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4080", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4080",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 338,
+      "power": 320,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4080",
+    "id": 28,
+    "name": "RTX 4080 16GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rtx4080-4",
-    "keywords": [
-      "RTX",
-      "4080",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4080", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4080",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 341,
+      "power": 320,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4080",
+    "id": 29,
+    "name": "RTX 4080 16GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rtx4080-5",
-    "keywords": [
-      "RTX",
-      "4080",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4080", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4080",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 339,
+      "power": 320,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4080",
+    "id": 30,
+    "name": "RTX 4080 16GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rtx4080-6",
-    "keywords": [
-      "RTX",
-      "4080",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
-  },
-  {
-    "name": "RTX 4090",
+    "keywords": ["RTX", "4080", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4080",
+      "memory": 16,
+      "memory_type": "GDDR6X",
+      "length": 343,
+      "power": 325,
+      "pcie_version": "4.0"
+    }
+  }
+    {
+    "id": 31,
+    "name": "RTX 4090 24GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rtx4090-1",
-    "keywords": [
-      "RTX",
-      "4090",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4090", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4090",
+      "memory": 24,
+      "memory_type": "GDDR6X",
+      "length": 350,
+      "power": 450,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4090",
+    "id": 32,
+    "name": "RTX 4090 24GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rtx4090-2",
-    "keywords": [
-      "RTX",
-      "4090",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4090", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4090",
+      "memory": 24,
+      "memory_type": "GDDR6X",
+      "length": 352,
+      "power": 455,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4090",
+    "id": 33,
+    "name": "RTX 4090 24GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rtx4090-3",
-    "keywords": [
-      "RTX",
-      "4090",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4090", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4090",
+      "memory": 24,
+      "memory_type": "GDDR6X",
+      "length": 348,
+      "power": 450,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4090",
+    "id": 34,
+    "name": "RTX 4090 24GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rtx4090-4",
-    "keywords": [
-      "RTX",
-      "4090",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4090", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4090",
+      "memory": 24,
+      "memory_type": "GDDR6X",
+      "length": 351,
+      "power": 450,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4090",
+    "id": 35,
+    "name": "RTX 4090 24GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rtx4090-5",
-    "keywords": [
-      "RTX",
-      "4090",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RTX", "4090", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4090",
+      "memory": 24,
+      "memory_type": "GDDR6X",
+      "length": 349,
+      "power": 450,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RTX 4090",
+    "id": 36,
+    "name": "RTX 4090 24GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rtx4090-6",
-    "keywords": [
-      "RTX",
-      "4090",
-      "NVIDIA",
-      "видеокарта",
-      "графика"
-    ]
-  },
-  {
-    "name": "RX 7900 XT",
+    "keywords": ["RTX", "4090", "NVIDIA", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "NVIDIA RTX 4090",
+      "memory": 24,
+      "memory_type": "GDDR6X",
+      "length": 353,
+      "power": 455,
+      "pcie_version": "4.0"
+    }
+  }
+    {
+    "id": 37,
+    "name": "RX 7900 XT 20GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rx7900xt-1",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XT",
+      "memory": 20,
+      "memory_type": "GDDR6",
+      "length": 320,
+      "power": 300,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XT",
+    "id": 38,
+    "name": "RX 7900 XT 20GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rx7900xt-2",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XT",
+      "memory": 20,
+      "memory_type": "GDDR6",
+      "length": 322,
+      "power": 305,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XT",
+    "id": 39,
+    "name": "RX 7900 XT 20GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rx7900xt-3",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XT",
+      "memory": 20,
+      "memory_type": "GDDR6",
+      "length": 318,
+      "power": 300,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XT",
+    "id": 40,
+    "name": "RX 7900 XT 20GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rx7900xt-4",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XT",
+      "memory": 20,
+      "memory_type": "GDDR6",
+      "length": 321,
+      "power": 300,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XT",
+    "id": 41,
+    "name": "RX 7900 XT 20GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rx7900xt-5",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XT",
+      "memory": 20,
+      "memory_type": "GDDR6",
+      "length": 319,
+      "power": 300,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XT",
+    "id": 42,
+    "name": "RX 7900 XT 20GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rx7900xt-6",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
-  },
-  {
-    "name": "RX 7900 XTX",
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XT",
+      "memory": 20,
+      "memory_type": "GDDR6",
+      "length": 323,
+      "power": 305,
+      "pcie_version": "4.0"
+    }
+  }
+    {
+    "id": 43,
+    "name": "RX 7900 XTX 24GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rx7900xtx-1",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XTX",
+      "memory": 24,
+      "memory_type": "GDDR6",
+      "length": 330,
+      "power": 355,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XTX",
+    "id": 44,
+    "name": "RX 7900 XTX 24GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rx7900xtx-2",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XTX",
+      "memory": 24,
+      "memory_type": "GDDR6",
+      "length": 332,
+      "power": 360,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XTX",
+    "id": 45,
+    "name": "RX 7900 XTX 24GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rx7900xtx-3",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XTX",
+      "memory": 24,
+      "memory_type": "GDDR6",
+      "length": 328,
+      "power": 355,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XTX",
+    "id": 46,
+    "name": "RX 7900 XTX 24GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rx7900xtx-4",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XTX",
+      "memory": 24,
+      "memory_type": "GDDR6",
+      "length": 331,
+      "power": 355,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XTX",
+    "id": 47,
+    "name": "RX 7900 XTX 24GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rx7900xtx-5",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XTX",
+      "memory": 24,
+      "memory_type": "GDDR6",
+      "length": 329,
+      "power": 355,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7900 XTX",
+    "id": 48,
+    "name": "RX 7900 XTX 24GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rx7900xtx-6",
-    "keywords": [
-      "RX",
-      "7900",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
-  },
-  {
-    "name": "RX 7800 XT",
+    "keywords": ["RX", "7900", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7900 XTX",
+      "memory": 24,
+      "memory_type": "GDDR6",
+      "length": 333,
+      "power": 360,
+      "pcie_version": "4.0"
+    }
+  }
+    {
+    "id": 49,
+    "name": "RX 7800 XT 16GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rx7800xt-1",
-    "keywords": [
-      "RX",
-      "7800",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7800", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7800 XT",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 280,
+      "power": 263,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7800 XT",
+    "id": 50,
+    "name": "RX 7800 XT 16GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rx7800xt-2",
-    "keywords": [
-      "RX",
-      "7800",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7800", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7800 XT",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 282,
+      "power": 268,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7800 XT",
+    "id": 51,
+    "name": "RX 7800 XT 16GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rx7800xt-3",
-    "keywords": [
-      "RX",
-      "7800",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7800", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7800 XT",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 278,
+      "power": 263,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7800 XT",
+    "id": 52,
+    "name": "RX 7800 XT 16GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rx7800xt-4",
-    "keywords": [
-      "RX",
-      "7800",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7800", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7800 XT",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 281,
+      "power": 263,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7800 XT",
+    "id": 53,
+    "name": "RX 7800 XT 16GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rx7800xt-5",
-    "keywords": [
-      "RX",
-      "7800",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7800", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7800 XT",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 279,
+      "power": 263,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7800 XT",
+    "id": 54,
+    "name": "RX 7800 XT 16GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rx7800xt-6",
-    "keywords": [
-      "RX",
-      "7800",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
-  },
-  {
-    "name": "RX 7700 XT",
+    "keywords": ["RX", "7800", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7800 XT",
+      "memory": 16,
+      "memory_type": "GDDR6",
+      "length": 283,
+      "power": 268,
+      "pcie_version": "4.0"
+    }
+  }
+    {
+    "id": 55,
+    "name": "RX 7700 XT 12GB",
     "price": 30000,
     "store": "DNS",
     "link": "https://example.com/product/rx7700xt-1",
-    "keywords": [
-      "RX",
-      "7700",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7700", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7700 XT",
+      "memory": 12,
+      "memory_type": "GDDR6",
+      "length": 270,
+      "power": 245,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7700 XT",
+    "id": 56,
+    "name": "RX 7700 XT 12GB",
     "price": 31500,
     "store": "Regard",
     "link": "https://example.com/product/rx7700xt-2",
-    "keywords": [
-      "RX",
-      "7700",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7700", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7700 XT",
+      "memory": 12,
+      "memory_type": "GDDR6",
+      "length": 272,
+      "power": 250,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7700 XT",
+    "id": 57,
+    "name": "RX 7700 XT 12GB",
     "price": 33000,
     "store": "Ozon",
     "link": "https://example.com/product/rx7700xt-3",
-    "keywords": [
-      "RX",
-      "7700",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7700", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7700 XT",
+      "memory": 12,
+      "memory_type": "GDDR6",
+      "length": 268,
+      "power": 245,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7700 XT",
+    "id": 58,
+    "name": "RX 7700 XT 12GB",
     "price": 30000,
     "store": "Citylink",
     "link": "https://example.com/product/rx7700xt-4",
-    "keywords": [
-      "RX",
-      "7700",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7700", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7700 XT",
+      "memory": 12,
+      "memory_type": "GDDR6",
+      "length": 271,
+      "power": 245,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7700 XT",
+    "id": 59,
+    "name": "RX 7700 XT 12GB",
     "price": 31500,
     "store": "Wildberries",
     "link": "https://example.com/product/rx7700xt-5",
-    "keywords": [
-      "RX",
-      "7700",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
+    "keywords": ["RX", "7700", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7700 XT",
+      "memory": 12,
+      "memory_type": "GDDR6",
+      "length": 269,
+      "power": 245,
+      "pcie_version": "4.0"
+    }
   },
   {
-    "name": "RX 7700 XT",
+    "id": 60,
+    "name": "RX 7700 XT 12GB",
     "price": 33000,
     "store": "28bit",
     "link": "https://example.com/product/rx7700xt-6",
-    "keywords": [
-      "RX",
-      "7700",
-      "AMD",
-      "видеокарта",
-      "графика"
-    ]
-  },
-  {
+    "keywords": ["RX", "7700", "AMD", "видеокарта", "графика"],
+    "category": "gpu",
+    "specs": {
+      "chip": "AMD RX 7700 XT",
+      "memory": 12,
+      "memory_type": "GDDR6",
+      "length": 273,
+      "power": 250,
+      "pcie_version": "4.0"
+    }
+  }
+    {
+    "id": 61,
     "name": "Intel Core i5-12400F",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/intelcorei5-12400f-1",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "2.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 62,
     "name": "Intel Core i5-12400F",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/intelcorei5-12400f-2",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "2.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 63,
     "name": "Intel Core i5-12400F",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/intelcorei5-12400f-3",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "2.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 64,
     "name": "Intel Core i5-12400F",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/intelcorei5-12400f-4",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "2.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 65,
     "name": "Intel Core i5-12400F",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/intelcorei5-12400f-5",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "2.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 66,
     "name": "Intel Core i5-12400F",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/intelcorei5-12400f-6",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "2.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 67,
     "name": "Intel Core i7-12700KF",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/intelcorei7-12700kf-1",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 12,
+      "threads": 20,
+      "frequency": "3.6-5.0 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 68,
     "name": "Intel Core i7-12700KF",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/intelcorei7-12700kf-2",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 12,
+      "threads": 20,
+      "frequency": "3.6-5.0 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 69,
     "name": "Intel Core i7-12700KF",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/intelcorei7-12700kf-3",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 12,
+      "threads": 20,
+      "frequency": "3.6-5.0 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 70,
     "name": "Intel Core i7-12700KF",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/intelcorei7-12700kf-4",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 12,
+      "threads": 20,
+      "frequency": "3.6-5.0 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 71,
     "name": "Intel Core i7-12700KF",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/intelcorei7-12700kf-5",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 12,
+      "threads": 20,
+      "frequency": "3.6-5.0 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 72,
     "name": "Intel Core i7-12700KF",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/intelcorei7-12700kf-6",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 12,
+      "threads": 20,
+      "frequency": "3.6-5.0 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 73,
     "name": "Intel Core i9-12900K",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/intelcorei9-12900k-1",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 16,
+      "threads": 24,
+      "frequency": "3.2-5.2 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 74,
     "name": "Intel Core i9-12900K",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/intelcorei9-12900k-2",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 16,
+      "threads": 24,
+      "frequency": "3.2-5.2 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 75,
     "name": "Intel Core i9-12900K",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/intelcorei9-12900k-3",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 16,
+      "threads": 24,
+      "frequency": "3.2-5.2 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 76,
     "name": "Intel Core i9-12900K",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/intelcorei9-12900k-4",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 16,
+      "threads": 24,
+      "frequency": "3.2-5.2 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 77,
     "name": "Intel Core i9-12900K",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/intelcorei9-12900k-5",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 16,
+      "threads": 24,
+      "frequency": "3.2-5.2 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
   },
   {
+    "id": 78,
     "name": "Intel Core i9-12900K",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/intelcorei9-12900k-6",
-    "keywords": [
-      "Intel",
-      "Core",
-      "Intel",
-      "процессор",
-      "CPU"
-    ]
-  },
-  {
+    "keywords": ["Intel", "Core", "Intel", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel 600/700",
+      "cores": 16,
+      "threads": 24,
+      "frequency": "3.2-5.2 GHz",
+      "tdp": 125,
+      "memory_type": "DDR4, DDR5",
+      "max_memory": 128
+    }
+  }
+    {
+    "id": 79,
     "name": "Ryzen 5 5600",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/ryzen55600-1",
-    "keywords": [
-      "Ryzen",
-      "5",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "5", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "3.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 80,
     "name": "Ryzen 5 5600",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/ryzen55600-2",
-    "keywords": [
-      "Ryzen",
-      "5",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "5", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "3.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 81,
     "name": "Ryzen 5 5600",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/ryzen55600-3",
-    "keywords": [
-      "Ryzen",
-      "5",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "5", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "3.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 82,
     "name": "Ryzen 5 5600",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/ryzen55600-4",
-    "keywords": [
-      "Ryzen",
-      "5",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "5", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "3.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 83,
     "name": "Ryzen 5 5600",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/ryzen55600-5",
-    "keywords": [
-      "Ryzen",
-      "5",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "5", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "3.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 84,
     "name": "Ryzen 5 5600",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/ryzen55600-6",
-    "keywords": [
-      "Ryzen",
-      "5",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "5", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 6,
+      "threads": 12,
+      "frequency": "3.5-4.4 GHz",
+      "tdp": 65,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 85,
     "name": "Ryzen 7 5800X3D",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/ryzen75800x3d-1",
-    "keywords": [
-      "Ryzen",
-      "7",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "7", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 8,
+      "threads": 16,
+      "frequency": "3.4-4.5 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 86,
     "name": "Ryzen 7 5800X3D",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/ryzen75800x3d-2",
-    "keywords": [
-      "Ryzen",
-      "7",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "7", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 8,
+      "threads": 16,
+      "frequency": "3.4-4.5 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 87,
     "name": "Ryzen 7 5800X3D",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/ryzen75800x3d-3",
-    "keywords": [
-      "Ryzen",
-      "7",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "7", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 8,
+      "threads": 16,
+      "frequency": "3.4-4.5 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 88,
     "name": "Ryzen 7 5800X3D",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/ryzen75800x3d-4",
-    "keywords": [
-      "Ryzen",
-      "7",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "7", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 8,
+      "threads": 16,
+      "frequency": "3.4-4.5 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 89,
     "name": "Ryzen 7 5800X3D",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/ryzen75800x3d-5",
-    "keywords": [
-      "Ryzen",
-      "7",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "7", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 8,
+      "threads": 16,
+      "frequency": "3.4-4.5 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 90,
     "name": "Ryzen 7 5800X3D",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/ryzen75800x3d-6",
-    "keywords": [
-      "Ryzen",
-      "7",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "7", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 8,
+      "threads": 16,
+      "frequency": "3.4-4.5 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 91,
     "name": "Ryzen 9 5900X",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/ryzen95900x-1",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 12,
+      "threads": 24,
+      "frequency": "3.7-4.8 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 92,
     "name": "Ryzen 9 5900X",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/ryzen95900x-2",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 12,
+      "threads": 24,
+      "frequency": "3.7-4.8 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 93,
     "name": "Ryzen 9 5900X",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/ryzen95900x-3",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 12,
+      "threads": 24,
+      "frequency": "3.7-4.8 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 94,
     "name": "Ryzen 9 5900X",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/ryzen95900x-4",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 12,
+      "threads": 24,
+      "frequency": "3.7-4.8 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 95,
     "name": "Ryzen 9 5900X",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/ryzen95900x-5",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 12,
+      "threads": 24,
+      "frequency": "3.7-4.8 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 96,
     "name": "Ryzen 9 5900X",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/ryzen95900x-6",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 12,
+      "threads": 24,
+      "frequency": "3.7-4.8 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 97,
     "name": "Ryzen 9 5950X",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/ryzen95950x-1",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 16,
+      "threads": 32,
+      "frequency": "3.4-4.9 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 98,
     "name": "Ryzen 9 5950X",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/ryzen95950x-2",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 16,
+      "threads": 32,
+      "frequency": "3.4-4.9 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 99,
     "name": "Ryzen 9 5950X",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/ryzen95950x-3",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 16,
+      "threads": 32,
+      "frequency": "3.4-4.9 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 100,
     "name": "Ryzen 9 5950X",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/ryzen95950x-4",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 16,
+      "threads": 32,
+      "frequency": "3.4-4.9 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 101,
     "name": "Ryzen 9 5950X",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/ryzen95950x-5",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 16,
+      "threads": 32,
+      "frequency": "3.4-4.9 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
   },
   {
+    "id": 102,
     "name": "Ryzen 9 5950X",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/ryzen95950x-6",
-    "keywords": [
-      "Ryzen",
-      "9",
-      "AMD",
-      "процессор",
-      "CPU"
-    ]
-  },
-  {
+    "keywords": ["Ryzen", "9", "AMD", "процессор", "CPU"],
+    "category": "cpu",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD 500",
+      "cores": 16,
+      "threads": 32,
+      "frequency": "3.4-4.9 GHz",
+      "tdp": 105,
+      "memory_type": "DDR4",
+      "max_memory": 128
+    }
+  }
+    {
+    "id": 103,
     "name": "SSD NVMe 1TB Kingston NV2",
     "price": 5000,
     "store": "DNS",
     "link": "https://example.com/product/ssdnvme1tbkingstonnv2-1",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Kingston"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Kingston"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 3500,
+      "write_speed": 2100,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 104,
     "name": "SSD NVMe 1TB Kingston NV2",
     "price": 5250,
     "store": "Regard",
     "link": "https://example.com/product/ssdnvme1tbkingstonnv2-2",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Kingston"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Kingston"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 3500,
+      "write_speed": 2100,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 105,
     "name": "SSD NVMe 1TB Kingston NV2",
     "price": 5500,
     "store": "Ozon",
     "link": "https://example.com/product/ssdnvme1tbkingstonnv2-3",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Kingston"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Kingston"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 3500,
+      "write_speed": 2100,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 106,
     "name": "SSD NVMe 1TB Kingston NV2",
     "price": 5000,
     "store": "Citylink",
     "link": "https://example.com/product/ssdnvme1tbkingstonnv2-4",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Kingston"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Kingston"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 3500,
+      "write_speed": 2100,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 107,
     "name": "SSD NVMe 1TB Kingston NV2",
     "price": 5250,
     "store": "Wildberries",
     "link": "https://example.com/product/ssdnvme1tbkingstonnv2-5",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Kingston"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Kingston"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 3500,
+      "write_speed": 2100,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 108,
     "name": "SSD NVMe 1TB Kingston NV2",
     "price": 5500,
     "store": "28bit",
     "link": "https://example.com/product/ssdnvme1tbkingstonnv2-6",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Kingston"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Kingston"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 3500,
+      "write_speed": 2100,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 109,
     "name": "SSD NVMe 2TB Samsung 990 Pro",
     "price": 5000,
     "store": "DNS",
     "link": "https://example.com/product/ssdnvme2tbsamsung990pro-1",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "990",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "990", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7450,
+      "write_speed": 6900,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 110,
     "name": "SSD NVMe 2TB Samsung 990 Pro",
     "price": 5250,
     "store": "Regard",
     "link": "https://example.com/product/ssdnvme2tbsamsung990pro-2",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "990",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "990", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7450,
+      "write_speed": 6900,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 111,
     "name": "SSD NVMe 2TB Samsung 990 Pro",
     "price": 5500,
     "store": "Ozon",
     "link": "https://example.com/product/ssdnvme2tbsamsung990pro-3",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "990",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "990", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7450,
+      "write_speed": 6900,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 112,
     "name": "SSD NVMe 2TB Samsung 990 Pro",
     "price": 5000,
     "store": "Citylink",
     "link": "https://example.com/product/ssdnvme2tbsamsung990pro-4",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "990",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "990", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7450,
+      "write_speed": 6900,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 113,
     "name": "SSD NVMe 2TB Samsung 990 Pro",
     "price": 5250,
     "store": "Wildberries",
     "link": "https://example.com/product/ssdnvme2tbsamsung990pro-5",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "990",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "990", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7450,
+      "write_speed": 6900,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 114,
     "name": "SSD NVMe 2TB Samsung 990 Pro",
     "price": 5500,
     "store": "28bit",
     "link": "https://example.com/product/ssdnvme2tbsamsung990pro-6",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "990",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "990", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7450,
+      "write_speed": 6900,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 115,
     "name": "SSD NVMe 1TB Samsung 980 Pro",
     "price": 5000,
     "store": "DNS",
     "link": "https://example.com/product/ssdnvme1tbsamsung980pro-1",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "980",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "980", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5000,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 116,
     "name": "SSD NVMe 1TB Samsung 980 Pro",
     "price": 5250,
     "store": "Regard",
     "link": "https://example.com/product/ssdnvme1tbsamsung980pro-2",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "980",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "980", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5000,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 117,
     "name": "SSD NVMe 1TB Samsung 980 Pro",
     "price": 5500,
     "store": "Ozon",
     "link": "https://example.com/product/ssdnvme1tbsamsung980pro-3",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "980",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "980", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5000,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 118,
     "name": "SSD NVMe 1TB Samsung 980 Pro",
     "price": 5000,
     "store": "Citylink",
     "link": "https://example.com/product/ssdnvme1tbsamsung980pro-4",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "980",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "980", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5000,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 119,
     "name": "SSD NVMe 1TB Samsung 980 Pro",
     "price": 5250,
     "store": "Wildberries",
     "link": "https://example.com/product/ssdnvme1tbsamsung980pro-5",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "980",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "980", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5000,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 120,
     "name": "SSD NVMe 1TB Samsung 980 Pro",
     "price": 5500,
     "store": "28bit",
     "link": "https://example.com/product/ssdnvme1tbsamsung980pro-6",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "Samsung",
-      "980",
-      "Pro"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "Samsung", "980", "Pro"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 1000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5000,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 121,
     "name": "SSD NVMe 2TB WD Black SN850",
     "price": 5000,
     "store": "DNS",
     "link": "https://example.com/product/ssdnvme2tbwdblacksn850-1",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "WD",
-      "Black"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "WD", "Black"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5300,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 122,
     "name": "SSD NVMe 2TB WD Black SN850",
     "price": 5250,
     "store": "Regard",
     "link": "https://example.com/product/ssdnvme2tbwdblacksn850-2",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "WD",
-      "Black"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "WD", "Black"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5300,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 123,
     "name": "SSD NVMe 2TB WD Black SN850",
     "price": 5500,
     "store": "Ozon",
     "link": "https://example.com/product/ssdnvme2tbwdblacksn850-3",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "WD",
-      "Black"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "WD", "Black"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5300,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 124,
     "name": "SSD NVMe 2TB WD Black SN850",
     "price": 5000,
     "store": "Citylink",
     "link": "https://example.com/product/ssdnvme2tbwdblacksn850-4",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "WD",
-      "Black"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "WD", "Black"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5300,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 125,
     "name": "SSD NVMe 2TB WD Black SN850",
     "price": 5250,
     "store": "Wildberries",
     "link": "https://example.com/product/ssdnvme2tbwdblacksn850-5",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "WD",
-      "Black"
-    ]
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "WD", "Black"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5300,
+      "interface": "PCIe 4.0"
+    }
   },
   {
+    "id": 126,
     "name": "SSD NVMe 2TB WD Black SN850",
     "price": 5500,
     "store": "28bit",
     "link": "https://example.com/product/ssdnvme2tbwdblacksn850-6",
-    "keywords": [
-      "SSD",
-      "NVMe",
-      "SSD",
-      "NVMe",
-      "WD",
-      "Black"
-    ]
-  },
-  {
+    "keywords": ["SSD", "NVMe", "SSD", "NVMe", "WD", "Black"],
+    "category": "ssd",
+    "specs": {
+      "capacity": 2000,
+      "type": "NVMe",
+      "form_factor": "M.2",
+      "read_speed": 7000,
+      "write_speed": 5300,
+      "interface": "PCIe 4.0"
+    }
+  }
+    {
+    "id": 127,
     "name": "Motherboard MSI B550 Tomahawk",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/motherboardmsib550tomahawk-1",
-    "keywords": [
-      "Motherboard",
-      "MSI",
-      "B550",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "MSI", "B550", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD B550",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 128,
     "name": "Motherboard MSI B550 Tomahawk",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/motherboardmsib550tomahawk-2",
-    "keywords": [
-      "Motherboard",
-      "MSI",
-      "B550",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "MSI", "B550", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD B550",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 129,
     "name": "Motherboard MSI B550 Tomahawk",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/motherboardmsib550tomahawk-3",
-    "keywords": [
-      "Motherboard",
-      "MSI",
-      "B550",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "MSI", "B550", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD B550",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 130,
     "name": "Motherboard MSI B550 Tomahawk",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/motherboardmsib550tomahawk-4",
-    "keywords": [
-      "Motherboard",
-      "MSI",
-      "B550",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "MSI", "B550", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD B550",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 131,
     "name": "Motherboard MSI B550 Tomahawk",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/motherboardmsib550tomahawk-5",
-    "keywords": [
-      "Motherboard",
-      "MSI",
-      "B550",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "MSI", "B550", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD B550",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 132,
     "name": "Motherboard MSI B550 Tomahawk",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/motherboardmsib550tomahawk-6",
-    "keywords": [
-      "Motherboard",
-      "MSI",
-      "B550",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "MSI", "B550", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD B550",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 133,
     "name": "Motherboard ASUS ROG Crosshair VIII Hero",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-1",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "ROG",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "ROG", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "5100 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 134,
     "name": "Motherboard ASUS ROG Crosshair VIII Hero",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-2",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "ROG",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "ROG", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "5100 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 135,
     "name": "Motherboard ASUS ROG Crosshair VIII Hero",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-3",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "ROG",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "ROG", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "5100 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 136,
     "name": "Motherboard ASUS ROG Crosshair VIII Hero",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-4",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "ROG",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "ROG", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "5100 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 137,
     "name": "Motherboard ASUS ROG Crosshair VIII Hero",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-5",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "ROG",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "ROG", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "5100 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 138,
     "name": "Motherboard ASUS ROG Crosshair VIII Hero",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/motherboardasusrogcrosshairviiihero-6",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "ROG",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "ROG", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "5100 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 139,
     "name": "Motherboard Gigabyte B660 AORUS Master",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-1",
-    "keywords": [
-      "Motherboard",
-      "Gigabyte",
-      "B660",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "Gigabyte", "B660", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel B660",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "6000 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 140,
     "name": "Motherboard Gigabyte B660 AORUS Master",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-2",
-    "keywords": [
-      "Motherboard",
-      "Gigabyte",
-      "B660",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "Gigabyte", "B660", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel B660",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "6000 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 141,
     "name": "Motherboard Gigabyte B660 AORUS Master",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-3",
-    "keywords": [
-      "Motherboard",
-      "Gigabyte",
-      "B660",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "Gigabyte", "B660", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel B660",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "6000 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 142,
     "name": "Motherboard Gigabyte B660 AORUS Master",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-4",
-    "keywords": [
-      "Motherboard",
-      "Gigabyte",
-      "B660",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "Gigabyte", "B660", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel B660",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "6000 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 143,
     "name": "Motherboard Gigabyte B660 AORUS Master",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-5",
-    "keywords": [
-      "Motherboard",
-      "Gigabyte",
-      "B660",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "Gigabyte", "B660", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel B660",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "6000 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 144,
     "name": "Motherboard Gigabyte B660 AORUS Master",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-6",
-    "keywords": [
-      "Motherboard",
-      "Gigabyte",
-      "B660",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "Gigabyte", "B660", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel B660",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "6000 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
+    }
   },
   {
+    "id": 145,
     "name": "Motherboard ASUS TUF Gaming X570",
     "price": 15000,
     "store": "DNS",
     "link": "https://example.com/product/motherboardasustufgamingx570-1",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "TUF",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "TUF", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 146,
     "name": "Motherboard ASUS TUF Gaming X570",
     "price": 15750,
     "store": "Regard",
     "link": "https://example.com/product/motherboardasustufgamingx570-2",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "TUF",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "TUF", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 147,
     "name": "Motherboard ASUS TUF Gaming X570",
     "price": 16500,
     "store": "Ozon",
     "link": "https://example.com/product/motherboardasustufgamingx570-3",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "TUF",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "TUF", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 148,
     "name": "Motherboard ASUS TUF Gaming X570",
     "price": 15000,
     "store": "Citylink",
     "link": "https://example.com/product/motherboardasustufgamingx570-4",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "TUF",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "TUF", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 149,
     "name": "Motherboard ASUS TUF Gaming X570",
     "price": 15750,
     "store": "Wildberries",
     "link": "https://example.com/product/motherboardasustufgamingx570-5",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "TUF",
-      "материнская плата",
-      "motherboard"
-    ]
+    "keywords": ["Motherboard", "ASUS", "TUF", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
   },
   {
+    "id": 150,
     "name": "Motherboard ASUS TUF Gaming X570",
     "price": 16500,
     "store": "28bit",
     "link": "https://example.com/product/motherboardasustufgamingx570-6",
-    "keywords": [
-      "Motherboard",
-      "ASUS",
-      "TUF",
-      "материнская плата",
-      "motherboard"
-    ]
-  },
-  {
+    "keywords": ["Motherboard", "ASUS", "TUF", "материнская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "AMD X570",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "4600 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 2
+    }
+  }
+    {
+    "id": 151,
     "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
     "price": 12000,
     "store": "DNS",
     "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-1",
-    "keywords": [
-      "32GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 32,
+      "frequency": 3200,
+      "latency": "CL16",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 152,
     "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
     "price": 12600,
     "store": "Regard",
     "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-2",
-    "keywords": [
-      "32GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 32,
+      "frequency": 3200,
+      "latency": "CL16",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 153,
     "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
     "price": 13200,
     "store": "Ozon",
     "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-3",
-    "keywords": [
-      "32GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 32,
+      "frequency": 3200,
+      "latency": "CL16",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 154,
     "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
     "price": 12000,
     "store": "Citylink",
     "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-4",
-    "keywords": [
-      "32GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 32,
+      "frequency": 3200,
+      "latency": "CL16",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 155,
     "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
     "price": 12600,
     "store": "Wildberries",
     "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-5",
-    "keywords": [
-      "32GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 32,
+      "frequency": 3200,
+      "latency": "CL16",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 156,
     "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
     "price": 13200,
     "store": "28bit",
     "link": "https://example.com/product/ram32gbddr43200mhzcorsairvengeance-6",
-    "keywords": [
-      "32GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 32,
+      "frequency": 3200,
+      "latency": "CL16",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 157,
     "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
     "price": 12000,
     "store": "DNS",
     "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-1",
-    "keywords": [
-      "64GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["64GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 64,
+      "frequency": 3600,
+      "latency": "CL18",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 158,
     "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
     "price": 12600,
     "store": "Regard",
     "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-2",
-    "keywords": [
-      "64GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["64GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 64,
+      "frequency": 3600,
+      "latency": "CL18",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 159,
     "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
     "price": 13200,
     "store": "Ozon",
     "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-3",
-    "keywords": [
-      "64GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["64GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 64,
+      "frequency": 3600,
+      "latency": "CL18",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 160,
     "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
     "price": 12000,
     "store": "Citylink",
     "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-4",
-    "keywords": [
-      "64GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["64GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 64,
+      "frequency": 3600,
+      "latency": "CL18",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 161,
     "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
     "price": 12600,
     "store": "Wildberries",
     "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-5",
-    "keywords": [
-      "64GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["64GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 64,
+      "frequency": 3600,
+      "latency": "CL18",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 162,
     "name": "RAM 64GB DDR4 3600MHz G.Skill Trident Z",
     "price": 13200,
     "store": "28bit",
     "link": "https://example.com/product/ram64gbddr43600mhzg.skilltridentz-6",
-    "keywords": [
-      "64GB",
-      "DDR4",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["64GB", "DDR4", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR4",
+      "capacity": 64,
+      "frequency": 3600,
+      "latency": "CL18",
+      "voltage": 1.35,
+      "modules": 2
+    }
   },
   {
+    "id": 163,
     "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
     "price": 12000,
     "store": "DNS",
     "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-1",
-    "keywords": [
-      "16GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["16GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 16,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 164,
     "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
     "price": 12600,
     "store": "Regard",
     "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-2",
-    "keywords": [
-      "16GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["16GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 16,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 165,
     "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
     "price": 13200,
     "store": "Ozon",
     "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-3",
-    "keywords": [
-      "16GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["16GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 16,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 166,
     "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
     "price": 12000,
     "store": "Citylink",
     "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-4",
-    "keywords": [
-      "16GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["16GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 16,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 167,
     "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
     "price": 12600,
     "store": "Wildberries",
     "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-5",
-    "keywords": [
-      "16GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["16GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 16,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 168,
     "name": "RAM 16GB DDR5 6000MHz Kingston Fury",
     "price": 13200,
     "store": "28bit",
     "link": "https://example.com/product/ram16gbddr56000mhzkingstonfury-6",
-    "keywords": [
-      "16GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["16GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 16,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 169,
     "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
     "price": 12000,
     "store": "DNS",
     "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-1",
-    "keywords": [
-      "32GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 32,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 170,
     "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
     "price": 12600,
     "store": "Regard",
     "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-2",
-    "keywords": [
-      "32GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 32,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 171,
     "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
     "price": 13200,
     "store": "Ozon",
     "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-3",
-    "keywords": [
-      "32GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 32,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 172,
     "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
     "price": 12000,
     "store": "Citylink",
     "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-4",
-    "keywords": [
-      "32GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 32,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 173,
     "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
     "price": 12600,
     "store": "Wildberries",
     "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-5",
-    "keywords": [
-      "32GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
+    "keywords": ["32GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 32,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
   },
   {
+    "id": 174,
     "name": "RAM 32GB DDR5 6000MHz Corsair Dominator",
     "price": 13200,
     "store": "28bit",
     "link": "https://example.com/product/ram32gbddr56000mhzcorsairdominator-6",
-    "keywords": [
-      "32GB",
-      "DDR5",
-      "RAM",
-      "оперативка"
-    ]
-  },
-  {
+    "keywords": ["32GB", "DDR5", "RAM", "оперативка"],
+    "category": "ram",
+    "specs": {
+      "memory_type": "DDR5",
+      "capacity": 32,
+      "frequency": 6000,
+      "latency": "CL36",
+      "voltage": 1.25,
+      "modules": 2
+    }
+  }
+    {
+    "id": 175,
     "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
     "price": 7000,
     "store": "DNS",
     "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-1",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Be",
-      "Quiet!",
-      "Dark",
-      "Rock",
-      "Pro",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Be", "Quiet!", "Dark", "Rock", "Pro", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 250,
+      "height": 163,
+      "fans": 2,
+      "noise_level": "24.3 dB"
+    }
   },
   {
+    "id": 176,
     "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
     "price": 7350,
     "store": "Regard",
     "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-2",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Be",
-      "Quiet!",
-      "Dark",
-      "Rock",
-      "Pro",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Be", "Quiet!", "Dark", "Rock", "Pro", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 250,
+      "height": 163,
+      "fans": 2,
+      "noise_level": "24.3 dB"
+    }
   },
   {
+    "id": 177,
     "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
     "price": 7700,
     "store": "Ozon",
     "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-3",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Be",
-      "Quiet!",
-      "Dark",
-      "Rock",
-      "Pro",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Be", "Quiet!", "Dark", "Rock", "Pro", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 250,
+      "height": 163,
+      "fans": 2,
+      "noise_level": "24.3 dB"
+    }
   },
   {
+    "id": 178,
     "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
     "price": 7000,
     "store": "Citylink",
     "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-4",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Be",
-      "Quiet!",
-      "Dark",
-      "Rock",
-      "Pro",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Be", "Quiet!", "Dark", "Rock", "Pro", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 250,
+      "height": 163,
+      "fans": 2,
+      "noise_level": "24.3 dB"
+    }
   },
   {
+    "id": 179,
     "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
     "price": 7350,
     "store": "Wildberries",
     "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-5",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Be",
-      "Quiet!",
-      "Dark",
-      "Rock",
-      "Pro",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Be", "Quiet!", "Dark", "Rock", "Pro", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 250,
+      "height": 163,
+      "fans": 2,
+      "noise_level": "24.3 dB"
+    }
   },
   {
+    "id": 180,
     "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
     "price": 7700,
     "store": "28bit",
     "link": "https://example.com/product/cpucoolerbequiet!darkrockpro4-6",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Be",
-      "Quiet!",
-      "Dark",
-      "Rock",
-      "Pro",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Be", "Quiet!", "Dark", "Rock", "Pro", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 250,
+      "height": 163,
+      "fans": 2,
+      "noise_level": "24.3 dB"
+    }
   },
   {
+    "id": 181,
     "name": "CPU Cooler Noctua NH-D15",
     "price": 7000,
     "store": "DNS",
     "link": "https://example.com/product/cpucoolernoctuanh-d15-1",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Noctua",
-      "NH-D15",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Noctua", "NH-D15", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 220,
+      "height": 165,
+      "fans": 2,
+      "noise_level": "24.6 dB"
+    }
   },
   {
+    "id": 182,
     "name": "CPU Cooler Noctua NH-D15",
     "price": 7350,
     "store": "Regard",
     "link": "https://example.com/product/cpucoolernoctuanh-d15-2",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Noctua",
-      "NH-D15",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Noctua", "NH-D15", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 220,
+      "height": 165,
+      "fans": 2,
+      "noise_level": "24.6 dB"
+    }
   },
   {
+    "id": 183,
     "name": "CPU Cooler Noctua NH-D15",
     "price": 7700,
     "store": "Ozon",
     "link": "https://example.com/product/cpucoolernoctuanh-d15-3",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Noctua",
-      "NH-D15",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Noctua", "NH-D15", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 220,
+      "height": 165,
+      "fans": 2,
+      "noise_level": "24.6 dB"
+    }
   },
   {
+    "id": 184,
     "name": "CPU Cooler Noctua NH-D15",
     "price": 7000,
     "store": "Citylink",
     "link": "https://example.com/product/cpucoolernoctuanh-d15-4",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Noctua",
-      "NH-D15",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Noctua", "NH-D15", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 220,
+      "height": 165,
+      "fans": 2,
+      "noise_level": "24.6 dB"
+    }
   },
   {
+    "id": 185,
     "name": "CPU Cooler Noctua NH-D15",
     "price": 7350,
     "store": "Wildberries",
     "link": "https://example.com/product/cpucoolernoctuanh-d15-5",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Noctua",
-      "NH-D15",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Noctua", "NH-D15", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 220,
+      "height": 165,
+      "fans": 2,
+      "noise_level": "24.6 dB"
+    }
   },
   {
+    "id": 186,
     "name": "CPU Cooler Noctua NH-D15",
     "price": 7700,
     "store": "28bit",
     "link": "https://example.com/product/cpucoolernoctuanh-d15-6",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Noctua",
-      "NH-D15",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Noctua", "NH-D15", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 220,
+      "height": 165,
+      "fans": 2,
+      "noise_level": "24.6 dB"
+    }
   },
   {
+    "id": 187,
     "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
     "price": 7000,
     "store": "DNS",
     "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-1",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Cooler",
-      "Master",
-      "Hyper",
-      "Black",
-      "Edition",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Cooler", "Master", "Hyper", "Black", "Edition", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 150,
+      "height": 159,
+      "fans": 1,
+      "noise_level": "26 dB"
+    }
   },
   {
+    "id": 188,
     "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
     "price": 7350,
     "store": "Regard",
     "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-2",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Cooler",
-      "Master",
-      "Hyper",
-      "Black",
-      "Edition",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Cooler", "Master", "Hyper", "Black", "Edition", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 150,
+      "height": 159,
+      "fans": 1,
+      "noise_level": "26 dB"
+    }
   },
   {
+    "id": 189,
     "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
     "price": 7700,
     "store": "Ozon",
     "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-3",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Cooler",
-      "Master",
-      "Hyper",
-      "Black",
-      "Edition",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Cooler", "Master", "Hyper", "Black", "Edition", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 150,
+      "height": 159,
+      "fans": 1,
+      "noise_level": "26 dB"
+    }
   },
   {
+    "id": 190,
     "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
     "price": 7000,
     "store": "Citylink",
     "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-4",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Cooler",
-      "Master",
-      "Hyper",
-      "Black",
-      "Edition",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Cooler", "Master", "Hyper", "Black", "Edition", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 150,
+      "height": 159,
+      "fans": 1,
+      "noise_level": "26 dB"
+    }
   },
   {
+    "id": 191,
     "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
     "price": 7350,
     "store": "Wildberries",
     "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-5",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Cooler",
-      "Master",
-      "Hyper",
-      "Black",
-      "Edition",
-      "кулер",
-      "охлаждение"
-    ]
+    "keywords": ["CPU", "Cooler", "Cooler", "Master", "Hyper", "Black", "Edition", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 150,
+      "height": 159,
+      "fans": 1,
+      "noise_level": "26 dB"
+    }
   },
   {
+    "id": 192,
     "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
     "price": 7700,
     "store": "28bit",
     "link": "https://example.com/product/cpucoolercoolermasterhyper212blackedition-6",
-    "keywords": [
-      "CPU",
-      "Cooler",
-      "Cooler",
-      "Master",
-      "Hyper",
-      "Black",
-      "Edition",
-      "кулер",
-      "охлаждение"
-    ]
-  },
-  {
+    "keywords": ["CPU", "Cooler", "Cooler", "Master", "Hyper", "Black", "Edition", "кулер", "охлаждение"],
+    "category": "cooler",
+    "specs": {
+      "socket": "LGA1700, AM4, AM5",
+      "tdp": 150,
+      "height": 159,
+      "fans": 1,
+      "noise_level": "26 dB"
+    }
+  }
+    {
+    "id": 193,
     "name": "PSU Corsair RM850x 850W 80+ Gold",
     "price": 12000,
     "store": "DNS",
     "link": "https://example.com/product/psucorsairrm850x850w80+gold-1",
-    "keywords": [
-      "PSU",
-      "Corsair",
-      "RM850x",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Corsair", "RM850x", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 4,
+      "cpu_connectors": 2,
+      "sata_connectors": 12,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 194,
     "name": "PSU Corsair RM850x 850W 80+ Gold",
     "price": 12600,
     "store": "Regard",
     "link": "https://example.com/product/psucorsairrm850x850w80+gold-2",
-    "keywords": [
-      "PSU",
-      "Corsair",
-      "RM850x",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Corsair", "RM850x", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 4,
+      "cpu_connectors": 2,
+      "sata_connectors": 12,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 195,
     "name": "PSU Corsair RM850x 850W 80+ Gold",
     "price": 13200,
     "store": "Ozon",
     "link": "https://example.com/product/psucorsairrm850x850w80+gold-3",
-    "keywords": [
-      "PSU",
-      "Corsair",
-      "RM850x",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Corsair", "RM850x", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 4,
+      "cpu_connectors": 2,
+      "sata_connectors": 12,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 196,
     "name": "PSU Corsair RM850x 850W 80+ Gold",
     "price": 12000,
     "store": "Citylink",
     "link": "https://example.com/product/psucorsairrm850x850w80+gold-4",
-    "keywords": [
-      "PSU",
-      "Corsair",
-      "RM850x",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Corsair", "RM850x", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 4,
+      "cpu_connectors": 2,
+      "sata_connectors": 12,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 197,
     "name": "PSU Corsair RM850x 850W 80+ Gold",
     "price": 12600,
     "store": "Wildberries",
     "link": "https://example.com/product/psucorsairrm850x850w80+gold-5",
-    "keywords": [
-      "PSU",
-      "Corsair",
-      "RM850x",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Corsair", "RM850x", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 4,
+      "cpu_connectors": 2,
+      "sata_connectors": 12,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 198,
     "name": "PSU Corsair RM850x 850W 80+ Gold",
     "price": 13200,
     "store": "28bit",
     "link": "https://example.com/product/psucorsairrm850x850w80+gold-6",
-    "keywords": [
-      "PSU",
-      "Corsair",
-      "RM850x",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Corsair", "RM850x", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 4,
+      "cpu_connectors": 2,
+      "sata_connectors": 12,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 199,
     "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
     "price": 12000,
     "store": "DNS",
     "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-1",
-    "keywords": [
-      "PSU",
-      "Seasonic",
-      "Prime",
-      "TX-1000",
-      "Titanium",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Seasonic", "Prime", "TX-1000", "Titanium", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 1000,
+      "efficiency": "80+ Titanium",
+      "pcie_connectors": 6,
+      "cpu_connectors": 2,
+      "sata_connectors": 16,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 200,
     "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
     "price": 12600,
     "store": "Regard",
     "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-2",
-    "keywords": [
-      "PSU",
-      "Seasonic",
-      "Prime",
-      "TX-1000",
-      "Titanium",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Seasonic", "Prime", "TX-1000", "Titanium", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 1000,
+      "efficiency": "80+ Titanium",
+      "pcie_connectors": 6,
+      "cpu_connectors": 2,
+      "sata_connectors": 16,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 201,
     "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
     "price": 13200,
     "store": "Ozon",
     "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-3",
-    "keywords": [
-      "PSU",
-      "Seasonic",
-      "Prime",
-      "TX-1000",
-      "Titanium",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Seasonic", "Prime", "TX-1000", "Titanium", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 1000,
+      "efficiency": "80+ Titanium",
+      "pcie_connectors": 6,
+      "cpu_connectors": 2,
+      "sata_connectors": 16,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 202,
     "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
     "price": 12000,
     "store": "Citylink",
     "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-4",
-    "keywords": [
-      "PSU",
-      "Seasonic",
-      "Prime",
-      "TX-1000",
-      "Titanium",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Seasonic", "Prime", "TX-1000", "Titanium", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 1000,
+      "efficiency": "80+ Titanium",
+      "pcie_connectors": 6,
+      "cpu_connectors": 2,
+      "sata_connectors": 16,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 203,
     "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
     "price": 12600,
     "store": "Wildberries",
     "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-5",
-    "keywords": [
-      "PSU",
-      "Seasonic",
-      "Prime",
-      "TX-1000",
-      "Titanium",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Seasonic", "Prime", "TX-1000", "Titanium", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 1000,
+      "efficiency": "80+ Titanium",
+      "pcie_connectors": 6,
+      "cpu_connectors": 2,
+      "sata_connectors": 16,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 204,
     "name": "PSU Seasonic Prime TX-1000 80+ Titanium",
     "price": 13200,
     "store": "28bit",
     "link": "https://example.com/product/psuseasonicprimetx-100080+titanium-6",
-    "keywords": [
-      "PSU",
-      "Seasonic",
-      "Prime",
-      "TX-1000",
-      "Titanium",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Seasonic", "Prime", "TX-1000", "Titanium", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 1000,
+      "efficiency": "80+ Titanium",
+      "pcie_connectors": 6,
+      "cpu_connectors": 2,
+      "sata_connectors": 16,
+      "form_factor": "ATX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 205,
     "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
     "price": 12000,
     "store": "DNS",
     "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-1",
-    "keywords": [
-      "PSU",
-      "Cooler",
-      "Master",
-      "V850",
-      "SFX",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Cooler", "Master", "V850", "SFX", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 3,
+      "cpu_connectors": 2,
+      "sata_connectors": 8,
+      "form_factor": "SFX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 206,
     "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
     "price": 12600,
     "store": "Regard",
     "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-2",
-    "keywords": [
-      "PSU",
-      "Cooler",
-      "Master",
-      "V850",
-      "SFX",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Cooler", "Master", "V850", "SFX", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 3,
+      "cpu_connectors": 2,
+      "sata_connectors": 8,
+      "form_factor": "SFX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 207,
     "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
     "price": 13200,
     "store": "Ozon",
     "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-3",
-    "keywords": [
-      "PSU",
-      "Cooler",
-      "Master",
-      "V850",
-      "SFX",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Cooler", "Master", "V850", "SFX", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 3,
+      "cpu_connectors": 2,
+      "sata_connectors": 8,
+      "form_factor": "SFX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 208,
     "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
     "price": 12000,
     "store": "Citylink",
     "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-4",
-    "keywords": [
-      "PSU",
-      "Cooler",
-      "Master",
-      "V850",
-      "SFX",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Cooler", "Master", "V850", "SFX", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 3,
+      "cpu_connectors": 2,
+      "sata_connectors": 8,
+      "form_factor": "SFX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 209,
     "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
     "price": 12600,
     "store": "Wildberries",
     "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-5",
-    "keywords": [
-      "PSU",
-      "Cooler",
-      "Master",
-      "V850",
-      "SFX",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Cooler", "Master", "V850", "SFX", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 3,
+      "cpu_connectors": 2,
+      "sata_connectors": 8,
+      "form_factor": "SFX",
+      "modular": "Полная"
+    }
   },
   {
+    "id": 210,
     "name": "PSU Cooler Master V850 SFX 850W 80+ Gold",
     "price": 13200,
     "store": "28bit",
     "link": "https://example.com/product/psucoolermasterv850sfx850w80+gold-6",
-    "keywords": [
-      "PSU",
-      "Cooler",
-      "Master",
-      "V850",
-      "SFX",
-      "Gold",
-      "блок питания",
-      "PSU"
-    ]
+    "keywords": ["PSU", "Cooler", "Master", "V850", "SFX", "Gold", "блок питания", "PSU"],
+    "category": "psu",
+    "specs": {
+      "power": 850,
+      "efficiency": "80+ Gold",
+      "pcie_connectors": 3,
+      "cpu_connectors": 2,
+      "sata_connectors": 8,
+      "form_factor": "SFX",
+      "modular": "Полная"
+    }
+  }
+    {
+    "id": 211,
+    "name": "Корпус NZXT H7 Flow Black",
+    "price": 8990,
+    "store": "DNS",
+    "link": "https://example.com/product/nzxt-h7-flow-1",
+    "keywords": ["корпус", "NZXT", "H7", "Flow", "ATX", "сетка"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 212,
+    "name": "Корпус NZXT H7 Flow Black",
+    "price": 9450,
+    "store": "Regard",
+    "link": "https://example.com/product/nzxt-h7-flow-2",
+    "keywords": ["корпус", "NZXT", "H7", "Flow", "ATX", "сетка"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 213,
+    "name": "Корпус NZXT H7 Flow Black",
+    "price": 9900,
+    "store": "Ozon",
+    "link": "https://example.com/product/nzxt-h7-flow-3",
+    "keywords": ["корпус", "NZXT", "H7", "Flow", "ATX", "сетка"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 214,
+    "name": "Корпус NZXT H7 Flow Black",
+    "price": 8990,
+    "store": "Citylink",
+    "link": "https://example.com/product/nzxt-h7-flow-4",
+    "keywords": ["корпус", "NZXT", "H7", "Flow", "ATX", "сетка"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 215,
+    "name": "Корпус NZXT H7 Flow Black",
+    "price": 9450,
+    "store": "Wildberries",
+    "link": "https://example.com/product/nzxt-h7-flow-5",
+    "keywords": ["корпус", "NZXT", "H7", "Flow", "ATX", "сетка"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 216,
+    "name": "Корпус NZXT H7 Flow Black",
+    "price": 9900,
+    "store": "28bit",
+    "link": "https://example.com/product/nzxt-h7-flow-6",
+    "keywords": ["корпус", "NZXT", "H7", "Flow", "ATX", "сетка"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 217,
+    "name": "Корпус Fractal Design Meshify 2",
+    "price": 10990,
+    "store": "DNS",
+    "link": "https://example.com/product/fractal-meshify2-1",
+    "keywords": ["корпус", "Fractal", "Design", "Meshify", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 490,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 218,
+    "name": "Корпус Fractal Design Meshify 2",
+    "price": 11540,
+    "store": "Regard",
+    "link": "https://example.com/product/fractal-meshify2-2",
+    "keywords": ["корпус", "Fractal", "Design", "Meshify", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 490,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 219,
+    "name": "Корпус Fractal Design Meshify 2",
+    "price": 12090,
+    "store": "Ozon",
+    "link": "https://example.com/product/fractal-meshify2-3",
+    "keywords": ["корпус", "Fractal", "Design", "Meshify", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 490,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 220,
+    "name": "Корпус Fractal Design Meshify 2",
+    "price": 10990,
+    "store": "Citylink",
+    "link": "https://example.com/product/fractal-meshify2-4",
+    "keywords": ["корпус", "Fractal", "Design", "Meshify", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 490,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 221,
+    "name": "Корпус Fractal Design Meshify 2",
+    "price": 11540,
+    "store": "Wildberries",
+    "link": "https://example.com/product/fractal-meshify2-5",
+    "keywords": ["корпус", "Fractal", "Design", "Meshify", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 490,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 222,
+    "name": "Корпус Fractal Design Meshify 2",
+    "price": 12090,
+    "store": "28bit",
+    "link": "https://example.com/product/fractal-meshify2-6",
+    "keywords": ["корпус", "Fractal", "Design", "Meshify", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 490,
+      "max_cpu_cooler": 185,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 3x140mm top, 1x140mm rear"
+    }
+  },
+  {
+    "id": 223,
+    "name": "Корпус Lian Li Lancool 216",
+    "price": 7990,
+    "store": "DNS",
+    "link": "https://example.com/product/lianli-lancool216-1",
+    "keywords": ["корпус", "Lian Li", "Lancool", "216", "ATX", "airflow"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 392,
+      "max_cpu_cooler": 180,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x160mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 224,
+    "name": "Корпус Lian Li Lancool 216",
+    "price": 8390,
+    "store": "Regard",
+    "link": "https://example.com/product/lianli-lancool216-2",
+    "keywords": ["корпус", "Lian Li", "Lancool", "216", "ATX", "airflow"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 392,
+      "max_cpu_cooler": 180,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x160mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 225,
+    "name": "Корпус Lian Li Lancool 216",
+    "price": 8790,
+    "store": "Ozon",
+    "link": "https://example.com/product/lianli-lancool216-3",
+    "keywords": ["корпус", "Lian Li", "Lancool", "216", "ATX", "airflow"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 392,
+      "max_cpu_cooler": 180,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x160mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 226,
+    "name": "Корпус Lian Li Lancool 216",
+    "price": 7990,
+    "store": "Citylink",
+    "link": "https://example.com/product/lianli-lancool216-4",
+    "keywords": ["корпус", "Lian Li", "Lancool", "216", "ATX", "airflow"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 392,
+      "max_cpu_cooler": 180,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x160mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 227,
+    "name": "Корпус Lian Li Lancool 216",
+    "price": 8390,
+    "store": "Wildberries",
+    "link": "https://example.com/product/lianli-lancool216-5",
+    "keywords": ["корпус", "Lian Li", "Lancool", "216", "ATX", "airflow"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 392,
+      "max_cpu_cooler": 180,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x160mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 228,
+    "name": "Корпус Lian Li Lancool 216",
+    "price": 8790,
+    "store": "28bit",
+    "link": "https://example.com/product/lianli-lancool216-6",
+    "keywords": ["корпус", "Lian Li", "Lancool", "216", "ATX", "airflow"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 392,
+      "max_cpu_cooler": 180,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x160mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 229,
+    "name": "Корпус Corsair 4000D Airflow",
+    "price": 6990,
+    "store": "DNS",
+    "link": "https://example.com/product/corsair-4000d-1",
+    "keywords": ["корпус", "Corsair", "4000D", "Airflow", "ATX", "mid-tower"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 360,
+      "max_cpu_cooler": 170,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 230,
+    "name": "Корпус Corsair 4000D Airflow",
+    "price": 7340,
+    "store": "Regard",
+    "link": "https://example.com/product/corsair-4000d-2",
+    "keywords": ["корпус", "Corsair", "4000D", "Airflow", "ATX", "mid-tower"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 360,
+      "max_cpu_cooler": 170,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 231,
+    "name": "Корпус Corsair 4000D Airflow",
+    "price": 7690,
+    "store": "Ozon",
+    "link": "https://example.com/product/corsair-4000d-3",
+    "keywords": ["корпус", "Corsair", "4000D", "Airflow", "ATX", "mid-tower"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 360,
+      "max_cpu_cooler": 170,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 232,
+    "name": "Корпус Corsair 4000D Airflow",
+    "price": 6990,
+    "store": "Citylink",
+    "link": "https://example.com/product/corsair-4000d-4",
+    "keywords": ["корпус", "Corsair", "4000D", "Airflow", "ATX", "mid-tower"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 360,
+      "max_cpu_cooler": 170,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 233,
+    "name": "Корпус Corsair 4000D Airflow",
+    "price": 7340,
+    "store": "Wildberries",
+    "link": "https://example.com/product/corsair-4000d-5",
+    "keywords": ["корпус", "Corsair", "4000D", "Airflow", "ATX", "mid-tower"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 360,
+      "max_cpu_cooler": 170,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 234,
+    "name": "Корпус Corsair 4000D Airflow",
+    "price": 7690,
+    "store": "28bit",
+    "link": "https://example.com/product/corsair-4000d-6",
+    "keywords": ["корпус", "Corsair", "4000D", "Airflow", "ATX", "mid-tower"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 360,
+      "max_cpu_cooler": 170,
+      "psu_support": "ATX",
+      "fans": 2,
+      "fan_slots": "2x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 235,
+    "name": "Корпус Deepcool CH560 Digital",
+    "price": 8490,
+    "store": "DNS",
+    "link": "https://example.com/product/deepcool-ch560-1",
+    "keywords": ["корпус", "Deepcool", "CH560", "Digital", "ATX", "RGB"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 380,
+      "max_cpu_cooler": 175,
+      "psu_support": "ATX",
+      "fans": 4,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 236,
+    "name": "Корпус Deepcool CH560 Digital",
+    "price": 8915,
+    "store": "Regard",
+    "link": "https://example.com/product/deepcool-ch560-2",
+    "keywords": ["корпус", "Deepcool", "CH560", "Digital", "ATX", "RGB"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 380,
+      "max_cpu_cooler": 175,
+      "psu_support": "ATX",
+      "fans": 4,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 237,
+    "name": "Корпус Deepcool CH560 Digital",
+    "price": 9340,
+    "store": "Ozon",
+    "link": "https://example.com/product/deepcool-ch560-3",
+    "keywords": ["корпус", "Deepcool", "CH560", "Digital", "ATX", "RGB"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 380,
+      "max_cpu_cooler": 175,
+      "psu_support": "ATX",
+      "fans": 4,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 238,
+    "name": "Корпус Deepcool CH560 Digital",
+    "price": 8490,
+    "store": "Citylink",
+    "link": "https://example.com/product/deepcool-ch560-4",
+    "keywords": ["корпус", "Deepcool", "CH560", "Digital", "ATX", "RGB"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 380,
+      "max_cpu_cooler": 175,
+      "psu_support": "ATX",
+      "fans": 4,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 239,
+    "name": "Корпус Deepcool CH560 Digital",
+    "price": 8915,
+    "store": "Wildberries",
+    "link": "https://example.com/product/deepcool-ch560-5",
+    "keywords": ["корпус", "Deepcool", "CH560", "Digital", "ATX", "RGB"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 380,
+      "max_cpu_cooler": 175,
+      "psu_support": "ATX",
+      "fans": 4,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 240,
+    "name": "Корпус Deepcool CH560 Digital",
+    "price": 9340,
+    "store": "28bit",
+    "link": "https://example.com/product/deepcool-ch560-6",
+    "keywords": ["корпус", "Deepcool", "CH560", "Digital", "ATX", "RGB"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 380,
+      "max_cpu_cooler": 175,
+      "psu_support": "ATX",
+      "fans": 4,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 241,
+    "name": "Корпус Be Quiet! Pure Base 500DX",
+    "price": 9990,
+    "store": "DNS",
+    "link": "https://example.com/product/bequiet-500dx-1",
+    "keywords": ["корпус", "Be Quiet!", "Pure Base", "500DX", "ATX", "тихий"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 369,
+      "max_cpu_cooler": 190,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 242,
+    "name": "Корпус Be Quiet! Pure Base 500DX",
+    "price": 10490,
+    "store": "Regard",
+    "link": "https://example.com/product/bequiet-500dx-2",
+    "keywords": ["корпус", "Be Quiet!", "Pure Base", "500DX", "ATX", "тихий"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 369,
+      "max_cpu_cooler": 190,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 243,
+    "name": "Корпус Be Quiet! Pure Base 500DX",
+    "price": 10990,
+    "store": "Ozon",
+    "link": "https://example.com/product/bequiet-500dx-3",
+    "keywords": ["корпус", "Be Quiet!", "Pure Base", "500DX", "ATX", "тихий"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 369,
+      "max_cpu_cooler": 190,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 244,
+    "name": "Корпус Be Quiet! Pure Base 500DX",
+    "price": 9990,
+    "store": "Citylink",
+    "link": "https://example.com/product/bequiet-500dx-4",
+    "keywords": ["корпус", "Be Quiet!", "Pure Base", "500DX", "ATX", "тихий"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 369,
+      "max_cpu_cooler": 190,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 245,
+    "name": "Корпус Be Quiet! Pure Base 500DX",
+    "price": 10490,
+    "store": "Wildberries",
+    "link": "https://example.com/product/bequiet-500dx-5",
+    "keywords": ["корпус", "Be Quiet!", "Pure Base", "500DX", "ATX", "тихий"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 369,
+      "max_cpu_cooler": 190,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 246,
+    "name": "Корпус Be Quiet! Pure Base 500DX",
+    "price": 10990,
+    "store": "28bit",
+    "link": "https://example.com/product/bequiet-500dx-6",
+    "keywords": ["корпус", "Be Quiet!", "Pure Base", "500DX", "ATX", "тихий"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 369,
+      "max_cpu_cooler": 190,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x140mm front, 1x140mm rear"
+    }
+  },
+  {
+    "id": 247,
+    "name": "Корпус Phanteks Eclipse G360A",
+    "price": 7490,
+    "store": "DNS",
+    "link": "https://example.com/product/phanteks-g360a-1",
+    "keywords": ["корпус", "Phanteks", "Eclipse", "G360A", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 162,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 248,
+    "name": "Корпус Phanteks Eclipse G360A",
+    "price": 7865,
+    "store": "Regard",
+    "link": "https://example.com/product/phanteks-g360a-2",
+    "keywords": ["корпус", "Phanteks", "Eclipse", "G360A", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 162,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 249,
+    "name": "Корпус Phanteks Eclipse G360A",
+    "price": 8240,
+    "store": "Ozon",
+    "link": "https://example.com/product/phanteks-g360a-3",
+    "keywords": ["корпус", "Phanteks", "Eclipse", "G360A", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 162,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 250,
+    "name": "Корпус Phanteks Eclipse G360A",
+    "price": 7490,
+    "store": "Citylink",
+    "link": "https://example.com/product/phanteks-g360a-4",
+    "keywords": ["корпус", "Phanteks", "Eclipse", "G360A", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 162,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 251,
+    "name": "Корпус Phanteks Eclipse G360A",
+    "price": 7865,
+    "store": "Wildberries",
+    "link": "https://example.com/product/phanteks-g360a-5",
+    "keywords": ["корпус", "Phanteks", "Eclipse", "G360A", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 162,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 252,
+    "name": "Корпус Phanteks Eclipse G360A",
+    "price": 8240,
+    "store": "28bit",
+    "link": "https://example.com/product/phanteks-g360a-6",
+    "keywords": ["корпус", "Phanteks", "Eclipse", "G360A", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler": 162,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 253,
+    "name": "Корпус Cooler Master MasterBox TD500",
+    "price": 8990,
+    "store": "DNS",
+    "link": "https://example.com/product/cm-td500-1",
+    "keywords": ["корпус", "Cooler Master", "MasterBox", "TD500", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 410,
+      "max_cpu_cooler": 165,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 254,
+    "name": "Корпус Cooler Master MasterBox TD500",
+    "price": 9440,
+    "store": "Regard",
+    "link": "https://example.com/product/cm-td500-2",
+    "keywords": ["корпус", "Cooler Master", "MasterBox", "TD500", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 410,
+      "max_cpu_cooler": 165,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 255,
+    "name": "Корпус Cooler Master MasterBox TD500",
+    "price": 9890,
+    "store": "Ozon",
+    "link": "https://example.com/product/cm-td500-3",
+    "keywords": ["корпус", "Cooler Master", "MasterBox", "TD500", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 410,
+      "max_cpu_cooler": 165,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 256,
+    "name": "Корпус Cooler Master MasterBox TD500",
+    "price": 8990,
+    "store": "Citylink",
+    "link": "https://example.com/product/cm-td500-4",
+    "keywords": ["корпус", "Cooler Master", "MasterBox", "TD500", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 410,
+      "max_cpu_cooler": 165,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 257,
+    "name": "Корпус Cooler Master MasterBox TD500",
+    "price": 9440,
+    "store": "Wildberries",
+    "link": "https://example.com/product/cm-td500-5",
+    "keywords": ["корпус", "Cooler Master", "MasterBox", "TD500", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 410,
+      "max_cpu_cooler": 165,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 258,
+    "name": "Корпус Cooler Master MasterBox TD500",
+    "price": 9890,
+    "store": "28bit",
+    "link": "https://example.com/product/cm-td500-6",
+    "keywords": ["корпус", "Cooler Master", "MasterBox", "TD500", "ATX", "меш"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 410,
+      "max_cpu_cooler": 165,
+      "psu_support": "ATX",
+      "fans": 3,
+      "fan_slots": "3x120mm front, 1x120mm rear"
+    }
+  },
+  {
+    "id": 259,
+    "name": "Корпус Thermaltake Core P3 TG Pro",
+    "price": 12990,
+    "store": "DNS",
+    "link": "https://example.com/product/thermaltake-p3-1",
+    "keywords": ["корпус", "Thermaltake", "Core P3", "open frame", "ATX", "настенный"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 420,
+      "max_cpu_cooler": 180,
+      "psu_support": "ATX",
+      "fans": 1,
+      "fan_slots": "1x120mm rear"
+    }
+  },
+  {
+    "id": 260,
+    "name": "Корпус Thermaltake Core P3 TG Pro",
+    "price": 13640,
+    "store": "Regard",
+    "link": "https://example.com/product/thermaltake-p3-2",
+    "keywords": ["корпус", "Thermaltake", "Core P3", "open frame", "ATX", "настенный"],
+    "category": "case",
+    "specs": {
+      "form_factor": "ATX",
+      "max_gpu_length": 420,
+      "max_cpu_cooler": 180,
+      "psu_support": "ATX",
+      "fans": 1,
+      "fan_slots": "1x120mm rear"
+    }
   }
 ]
