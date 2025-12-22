@@ -82,12 +82,12 @@ function render(list) {
             <div class="card-footer">
                 <div class="price">${item.price.toLocaleString()} ₽</div>
                 <div class="card-actions">
-                    <a href="${item.link}" target="_blank" style="padding: 8px 16px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;"><img src="link.png" width='30px'></a>
+                    <a href="${item.link}" target="_blank" style="padding: 8px 16px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;"><img src="link.png" width='15px'></a>
                     <button class="add-to-build-btn" 
                             data-id="${item.id}" 
                             data-category="${item.category}"
                             ${inBuild || !canAdd ? 'disabled' : ''}>
-                        ${inBuild ? '✓ В сборке' : "<img src='add.png' width='30px'>"}
+                        ${inBuild ? '✓ В сборке' : "<img src='add.png' width='15px'>"}
                     </button>
                 </div>
             </div>
