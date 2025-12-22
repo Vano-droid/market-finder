@@ -1,4 +1,31 @@
 let products = [];
+function generateRandomRating() {
+    // Генерируем число от 2.0 до 5.0 с одной цифрой после запятой
+    return (Math.random() * 3 + 2).toFixed(1);
+};
+function generateStars(rating) {
+    const fullStars = Math.floor(rating);
+    const hasHalfStar = rating % 1 >= 0.5;
+    let stars = '';
+    
+    // Полные звезды
+    for (let i = 0; i < fullStars; i++) {
+        stars += '★';
+    }
+    
+    // Половина звезды
+    if (hasHalfStar && fullStars < 5) {
+        stars += '½';
+    }
+    
+    // Пустые звезды
+    const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
+    for (let i = 0; i < emptyStars; i++) {
+        stars += '☆';
+    }
+    
+    return stars;
+};
 let currentBuild = {
     cpu: null,
     motherboard: null,
@@ -78,6 +105,10 @@ function render(list) {
             </div>
             <div class="card-header">
                 <h3 class="card-title">${item.name}</h3>
+                 <div class="rating">
+                    <div class="stars">${generateStars(item.rating)}</div>
+                    <div class="rating-value">${item.rating}</div>
+                </div>
                 <span class="card-category">${getCategoryName(item.category)}</span>
                     ${item.store ? `<span class="card-store">${item.store}</span>` : ''}
             </div>
