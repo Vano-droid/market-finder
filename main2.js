@@ -87,7 +87,7 @@ function render(list) {
                             data-id="${item.id}" 
                             data-category="${item.category}"
                             ${inBuild || !canAdd ? 'disabled' : ''}>
-                        ${inBuild ? '✓ В сборке' : <img src="add.png">}
+                        ${inBuild ? '✓ В сборке' : "<img src="add.png">"}
                     </button>
                 </div>
             </div>
