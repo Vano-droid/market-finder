@@ -73,7 +73,7 @@ function render(list) {
         
         card.innerHTML = `
             <div class="card-image">
-                <img src="${'no-image.png'}" alt="${item.name}" 
+                <img src="${'no-image.png'}" width="25px" alt="${item.name}" 
                      onerror="this.onerror=null; this.src='images/no-image.png';">
             </div>
             <div class="card-header">
@@ -234,7 +234,7 @@ function updateBuildPanel() {
             html += `
                 <div class="build-item">
                   <div class="build-item-image">
-                        <img src="${'no-image.png'}" alt="${product.name}"
+                        <img src="${'no-image.png'}" width="25px" alt="${product.name}"
                              onerror="this.onerror=null; this.src='images/no-image.png';">
                     </div>
                     <div class="build-item-info">
