@@ -2453,22 +2453,22 @@
     }
   },
   {
-     "id": 139,
-     "name": "Motherboard Gigabyte B660 AORUS Master",
-     "price": 15000,
-     "store": "DNS",
-     "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-1",
-     "keywords": ["Motherboard", "Gigabyte", "B660", "warepинская плата", "motherboard"],
-     "category": "motherboard",
-     "specs": {
-       "socket": "LGA1700",
-       "chipset": "Intel B660",
-       "memory_type": "DDR5",
-       "memory_slots": 4,
-       "max_memory": 128,
-       "memory_freq": "6000 MHz",
-       "form_factor": "ATX",
-       "pcie_slots": 3
+    "id": 139,
+    "name": "Motherboard Gigabyte B660 AORUS Master",
+    "price": 15000,
+    "store": "DNS",
+    "link": "https://example.com/product/motherboardgigabyteb660aorusmaster-1",
+    "keywords": ["Motherboard", "Gigabyte", "B660", "warepинская плата", "motherboard"],
+    "category": "motherboard",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Intel B660",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory": 128,
+      "memory_freq": "6000 MHz",
+      "form_factor": "ATX",
+      "pcie_slots": 3
     }
   },
   {
