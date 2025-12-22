@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Результаты поиска</title>
+<title>Поиск комплектующих ПК</title>
 <link rel="stylesheet" href="style.css">
 <style>
 body {
@@ -13,7 +13,7 @@ body {
     background: #f5f5f5;
 }
 
-/* Header с большим поиском */
+/* Header */
 header {
     background: #ff8a70;
     padding: 20px;
@@ -85,31 +85,81 @@ header h1 {
 .main-container {
     display: flex;
     margin: 30px auto;
-    width: 90%;
+    width: 95%;
+    gap: 20px;
 }
 
 /* Левая панель */
 .left-panel {
-    width: 250px;
-    margin-right: 20px;
+    width: 280px;
     background: #fff;
     border-radius: 10px;
-    padding: 15px;
-    transition: transform 0.3s ease;
-    transform: translateX(0);
-    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
-    position: relative;
-    z-index: 2;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 20px;
+    height: fit-content;
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
 }
+
 .left-panel.hidden {
-    transform: translateX(-260px);
+    transform: translateX(-300px);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 100;
+    background: white;
+    padding-top: 60px;
 }
 
 .burger-btn {
-    display: block;
+    display: none;
     font-size: 30px;
-    margin-bottom: 20px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
     cursor: pointer;
+    z-index: 101;
+}
+
+.left-panel h3 {
+    margin-top: 0;
+    color: #333;
+    border-bottom: 2px solid #ff8a70;
+    padding-bottom: 10px;
+}
+
+.category-filter {
+    margin-bottom: 20px;
+}
+
+.category-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.category-btn {
+    background: #f0f0f0;
+    border: 1px solid #ddd;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+}
+
+.category-btn:hover {
+    background: #e0e0e0;
+}
+
+.category-btn.active {
+    background: #ff8a70;
+    color: white;
+    border-color: #ff8a70;
 }
 
 .left-panel input {
@@ -117,40 +167,259 @@ header h1 {
     padding: 4px;
     border-radius: 6px;
     border: 1px solid #aaa;
+    margin-bottom: 15px;
 }
 
 .sort-select {
-    margin-top: 10px;
     width: 100%;
     padding: 10px;
     border-radius: 6px;
     border: 1px solid #aaa;
+    margin-bottom: 15px;
 }
 
 /* Основная область с карточками */
 .results {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.results-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.results-count {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Карточки товаров */
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
 }
 
 .card {
     background: white;
-    margin-bottom: 15px;
     padding: 15px;
     border-radius: 10px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+.card-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+    flex: 1;
+}
+
+.card-category {
+    background: #e8f4ff;
+    color: #4a6fa5;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.card-details {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 15px;
+    flex: 1;
+}
+
+.card-footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: auto;
 }
-.card a {
-    text-decoration: none;
-    color: #ff8a70;
-    font-weight: bold;
-}
+
 .price {
     color: #ff8a70;
     font-weight: bold;
     font-size: 18px;
+}
+
+.card-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.add-to-build-btn {
+    padding: 8px 16px;
+    background: #4a6fa5;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.2s;
+}
+
+.add-to-build-btn:hover {
+    background: #3a5a80;
+}
+
+.add-to-build-btn:disabled {
+    background: #cccccc;
+    cursor: not-allowed;
+}
+
+/* Панель сборки ПК */
+.build-panel {
+    position: fixed;
+    right: -350px;
+    top: 0;
+    width: 350px;
+    height: 100vh;
+    background: white;
+    box-shadow: -5px 0 15px rgba(0,0,0,0.1);
+    transition: right 0.3s ease;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+}
+
+.build-panel.open {
+    right: 0;
+}
+
+.build-header {
+    padding: 20px;
+    background: #4a6fa5;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.build-header h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.close-build {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.build-content {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.build-total {
+    padding: 20px;
+    background: #f8f9fa;
+    border-top: 1px solid #ddd;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.build-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.build-item-info {
+    flex: 1;
+}
+
+.build-item-name {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.build-item-price {
+    color: #ff8a70;
+    font-weight: bold;
+}
+
+.remove-item {
+    background: #ff6b6b;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.remove-item:hover {
+    background: #ff5252;
+}
+
+.compatibility-check {
+    background: #e8f4ff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.compatibility-check h4 {
+    margin-top: 0;
+    color: #4a6fa5;
+}
+
+.compatibility-list {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+.compatibility-list li {
+    padding: 5px 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.compatibility-ok {
+    color: #4caf50;
+}
+
+.compatibility-error {
+    color: #f44336;
+}
+
+.compatibility-warning {
+    color: #ff9800;
 }
 
 /* Адаптив для мобильных */
@@ -187,6 +456,15 @@ header h1 {
     .results { 
         width: 100%; 
     }
+    
+    .build-panel {
+        width: 100%;
+        right: -100%;
+    }
+    
+    .build-panel.open {
+        right: 0;
+    }
 }
 </style>
 </head>
@@ -197,7 +475,7 @@ header h1 {
         <div class="header-top">
             <h1>Поисковая система комплектующих</h1>
             <button class="build-pc-btn" id="buildPcBtn">
-                🛠️ Собрать ПК
+                🛠️ Моя сборка
             </button>
         </div>
         
@@ -211,7 +489,24 @@ header h1 {
 <div class="main-container">
     <div class="left-panel" id="leftPanel">
         <span class="burger-btn" id="burgerBtn">☰</span>
+        <h3>Фильтры</h3>
         <input id="sideSearch" placeholder="Поиск товаров...">
+        
+        <div class="category-filter">
+            <h4>Категории:</h4>
+            <div class="category-buttons">
+                <button class="category-btn active" data-category="all">Все</button>
+                <button class="category-btn" data-category="cpu">Процессоры</button>
+                <button class="category-btn" data-category="motherboard">Материнские платы</button>
+                <button class="category-btn" data-category="gpu">Видеокарты</button>
+                <button class="category-btn" data-category="ram">ОЗУ</button>
+                <button class="category-btn" data-category="psu">Блоки питания</button>
+                <button class="category-btn" data-category="case">Корпуса</button>
+                <button class="category-btn" data-category="ssd">SSD</button>
+                <button class="category-btn" data-category="cooler">Кулеры</button>
+            </div>
+        </div>
+        
         <select id="sortSelect" class="sort-select">
             <option value="none">Без сортировки</option>
             <option value="price-asc">Цена: по возрастанию</option>
@@ -220,103 +515,44 @@ header h1 {
         </select>
     </div>
 
-    <div class="results" id="results"></div>
+    <div class="results" id="results">
+        <div class="results-header">
+            <div class="results-count" id="resultsCount">Найдено товаров: 0</div>
+        </div>
+        <div class="cards-grid" id="cardsGrid"></div>
+    </div>
 </div>
 
-<script>
-let products = [];
+<!-- Панель сборки ПК -->
+<div class="build-panel" id="buildPanel">
+    <div class="build-header">
+        <h2>Моя сборка ПК</h2>
+        <button class="close-build" id="closeBuild">&times;</button>
+    </div>
+    
+    <div class="build-content" id="buildContent">
+        <p>Добавляйте компоненты из списка для создания сборки</p>
+        <div id="buildItems"></div>
+        
+        <div class="compatibility-check" id="compatibilityCheck">
+            <h4>Проверка совместимости:</h4>
+            <ul class="compatibility-list" id="compatibilityList"></ul>
+        </div>
+    </div>
+    
+    <div class="build-total">
+        <span>Итого:</span>
+        <span id="totalPrice">0 ₽</span>
+    </div>
+</div>
 
-// Загрузка базы данных
-async function loadData() {
-    const res = await fetch('data.json'); 
-    products = await res.json();
-
-    const params = new URLSearchParams(window.location.search);
-    const query = params.get('q') || '';
-
-    document.getElementById('bigSearch').value = query;
-    document.getElementById('sideSearch').value = query;
-
-    filterAndRender(query);
-}
-
-// Фильтрация и рендер
-function filterAndRender(q) {
-    const query = q.toLowerCase();
-    let filtered = products.filter(p => 
-        p.name.toLowerCase().includes(query) ||
-        p.keywords.some(k => k.toLowerCase().includes(query))
-    );
-    applySort(filtered);
-}
-
-function render(list) {
-    const container = document.getElementById('results');
-    container.innerHTML = '';
-    if(!list.length){
-        container.innerHTML = "<p>Ничего не найдено</p>";
-        return;
-    }
-    list.forEach(item => {
-        const card = document.createElement('div');
-        card.className = 'card';
-        card.innerHTML = `
-            <div>
-                <strong>${item.name}</strong><br>
-                Магазин: ${item.store}<br>
-                <a href="${item.link}" target="_blank">Перейти</a>
-            </div>
-            <div class="price">${item.price.toLocaleString()} ₽</div>
-        `;
-        container.appendChild(card);
-    });
-}
-
-// Сортировка
-function applySort(list){
-    const mode = document.getElementById('sortSelect').value;
-    if(mode === 'price-asc') list.sort((a,b)=>a.price-b.price);
-    if(mode === 'price-desc') list.sort((a,b)=>b.price-a.price);
-    if(mode === 'alphabet') list.sort((a,b)=>a.name.localeCompare(b.name));
-    render(list);
-}
-
-// Поиск
-document.getElementById('bigSearchBtn').addEventListener('click', () => {
-    const val = document.getElementById('bigSearch').value.trim();
-    if(val) window.location.href = `search.html?q=${encodeURIComponent(val)}`;
-});
-
-document.getElementById('sideSearch').addEventListener('input', (e)=>{
-    filterAndRender(e.target.value);
-});
-
-document.getElementById('sortSelect').addEventListener('change', ()=>{
-    filterAndRender(document.getElementById('sideSearch').value);
-});
-
-// Бургер-меню
-const burgerBtn = document.getElementById('burgerBtn');
-const leftPanel = document.getElementById('leftPanel');
-
-burgerBtn.addEventListener('click', () => {
-    if(leftPanel.classList.contains('hidden') || leftPanel.classList.contains('visible')){
-        leftPanel.classList.toggle('visible');
-        leftPanel.classList.remove('hidden');
-    } else {
-        leftPanel.classList.add('hidden');
-    }
-});
-
-// Кнопка сборки ПК - просто для демонстрации
-document.getElementById('buildPcBtn').addEventListener('click', () => {
-    alert('Функция сборки ПК находится в разработке. Здесь будет интерфейс для выбора и проверки совместимости комплектующих.');
-    // В будущем здесь будет переход на страницу сборки ПК
-    // window.location.href = 'pc-builder.html';
-});
-
+<script src="main.js">
+</script>
+</body>
+</html>
 loadData();
 </script>
 </body>
 </html>
+
 
