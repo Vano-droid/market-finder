@@ -202,7 +202,8 @@
       "power": 165,
       "pcie_version": "4.0"
     }
-  }  {
+  },
+  {
     "id": 13,
     "name": "RTX 4070 12GB",
     "price": 30000,
@@ -303,7 +304,7 @@
       "power": 205,
       "pcie_version": "4.0"
     }
-  }
+  },
   {
     "id": 19,
     "name": "RTX 4070 Super 16GB",
@@ -405,7 +406,7 @@
       "power": 225,
       "pcie_version": "4.0"
     }
-  }
+  },
     {
     "id": 25,
     "name": "RTX 4080 16GB",
@@ -507,7 +508,7 @@
       "power": 325,
       "pcie_version": "4.0"
     }
-  }
+  },
     {
     "id": 31,
     "name": "RTX 4090 24GB",
@@ -609,7 +610,7 @@
       "power": 455,
       "pcie_version": "4.0"
     }
-  }
+  },
     {
     "id": 37,
     "name": "RX 7900 XT 20GB",
@@ -711,7 +712,7 @@
       "power": 305,
       "pcie_version": "4.0"
     }
-  }
+  },
     {
     "id": 43,
     "name": "RX 7900 XTX 24GB",
@@ -813,7 +814,7 @@
       "power": 360,
       "pcie_version": "4.0"
     }
-  }
+  },
     {
     "id": 49,
     "name": "RX 7800 XT 16GB",
@@ -915,7 +916,7 @@
       "power": 268,
       "pcie_version": "4.0"
     }
-  }
+  },
     {
     "id": 55,
     "name": "RX 7700 XT 12GB",
@@ -1017,7 +1018,7 @@
       "power": 250,
       "pcie_version": "4.0"
     }
-  }
+  },
     {
     "id": 61,
     "name": "Intel Core i5-12400F",
@@ -1359,7 +1360,7 @@
       "memory_type": "DDR4, DDR5",
       "max_memory": 128
     }
-  }
+  },
     {
     "id": 79,
     "name": "Ryzen 5 5600",
@@ -1815,7 +1816,7 @@
       "memory_type": "DDR4",
       "max_memory": 128
     }
-  }
+  },
     {
     "id": 103,
     "name": "SSD NVMe 1TB Kingston NV2",
@@ -2223,7 +2224,7 @@
       "write_speed": 5300,
       "interface": "PCIe 4.0"
     }
-  }
+  },
     {
     "id": 127,
     "name": "Motherboard MSI B550 Tomahawk",
@@ -2679,7 +2680,7 @@
       "form_factor": "ATX",
       "pcie_slots": 2
     }
-  }
+  },
     {
     "id": 151,
     "name": "RAM 32GB DDR4 3200MHz Corsair Vengeance",
@@ -3087,7 +3088,7 @@
       "voltage": 1.25,
       "modules": 2
     }
-  }
+  },
     {
     "id": 175,
     "name": "CPU Cooler Be Quiet! Dark Rock Pro 4",
@@ -3375,7 +3376,7 @@
       "fans": 1,
       "noise_level": "26 dB"
     }
-  }
+  },
     {
     "id": 193,
     "name": "PSU Corsair RM850x 850W 80+ Gold",
@@ -3699,7 +3700,7 @@
       "form_factor": "SFX",
       "modular": "Полная"
     }
-  }
+  },
     {
     "id": 211,
     "name": "Корпус NZXT H7 Flow Black",
